@@ -1,6 +1,6 @@
 
 
-## [cloudreve-2.0.9](https://github.com/truecharts/charts/compare/cloudreve-2.0.8...cloudreve-2.0.9) (2023-02-10)
+## [cloudreve-2.0.9](https://github.com/succelle/charts/compare/cloudreve-2.0.8...cloudreve-2.0.9) (2023-02-10)
 
 ### Fix
 

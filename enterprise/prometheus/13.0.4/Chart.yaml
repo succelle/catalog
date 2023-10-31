@@ -25,7 +25,7 @@ maintainers:
     url: https://truecharts.org
 name: prometheus
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/enterprise/prometheus
+  - https://github.com/succelle/charts/tree/master/charts/enterprise/prometheus
   - https://github.com/prometheus-community/helm-charts
   - https://github.com/prometheus-operator/kube-prometheus
 type: application

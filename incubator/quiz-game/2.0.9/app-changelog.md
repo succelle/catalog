@@ -1,6 +1,6 @@
 
 
-## [quiz-game-2.0.9](https://github.com/truecharts/charts/compare/quiz-game-2.0.8...quiz-game-2.0.9) (2023-02-10)
+## [quiz-game-2.0.9](https://github.com/succelle/charts/compare/quiz-game-2.0.8...quiz-game-2.0.9) (2023-02-10)
 
 ### Fix
 

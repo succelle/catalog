@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: icantbelieveitsnotvaletudo
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/icantbelieveitsnotvaletudo
+  - https://github.com/succelle/charts/tree/master/charts/incubator/icantbelieveitsnotvaletudo
   - https://github.com/Hypfer/ICantBelieveItsNotValetudo
 version: 7.0.0
 annotations:

@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: storm
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/storm
+  - https://github.com/succelle/charts/tree/master/charts/incubator/storm
   - https://ghcr.io/relvacode/storm
   - https://github.com/relvacode/storm
   - https://github.com/relvacode/storm/pkgs/container/storm

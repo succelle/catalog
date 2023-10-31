@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: vaultwarden
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/enterprise/vaultwarden
+  - https://github.com/succelle/charts/tree/master/charts/enterprise/vaultwarden
   - https://github.com/dani-garcia/vaultwarden
 type: application
 version: 23.0.1

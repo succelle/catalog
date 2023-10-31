@@ -4,7 +4,7 @@
 
 
 
-## [thumba-0.0.7](https://github.com/truecharts/charts/compare/thumba-0.0.6...thumba-0.0.7) (2023-02-10)
+## [thumba-0.0.7](https://github.com/succelle/charts/compare/thumba-0.0.6...thumba-0.0.7) (2023-02-10)
 
 ### Fix
 
@@ -13,34 +13,34 @@
   
 
 
-## [thumba-0.0.6](https://github.com/truecharts/charts/compare/thumba-0.0.5...thumba-0.0.6) (2023-02-02)
+## [thumba-0.0.6](https://github.com/succelle/charts/compare/thumba-0.0.5...thumba-0.0.6) (2023-02-02)
 
 ### Fix
 
-- remove non-link sources ([#6826](https://github.com/truecharts/charts/issues/6826))
+- remove non-link sources ([#6826](https://github.com/succelle/charts/issues/6826))
   
   
 
 
-## [thumba-0.0.5](https://github.com/truecharts/charts/compare/thumba-0.0.4...thumba-0.0.5) (2022-12-27)
+## [thumba-0.0.5](https://github.com/succelle/charts/compare/thumba-0.0.4...thumba-0.0.5) (2022-12-27)
 
 ### Chore
 
-- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+- update helm general non-major ([#5856](https://github.com/succelle/charts/issues/5856))
   
   
 
 
-## [thumba-0.0.4](https://github.com/truecharts/charts/compare/thumba-0.0.3...thumba-0.0.4) (2022-12-26)
+## [thumba-0.0.4](https://github.com/succelle/charts/compare/thumba-0.0.3...thumba-0.0.4) (2022-12-26)
 
 ### Chore
 
-- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+- update helm general non-major ([#5839](https://github.com/succelle/charts/issues/5839))
   
   
 
 
-## [thumba-0.0.3](https://github.com/truecharts/charts/compare/thumba-0.0.2...thumba-0.0.3) (2022-12-25)
+## [thumba-0.0.3](https://github.com/succelle/charts/compare/thumba-0.0.2...thumba-0.0.3) (2022-12-25)
 
 ### Chore
 
@@ -49,7 +49,7 @@
   
 
 
-## [thumba-0.0.2](https://github.com/truecharts/charts/compare/thumba-0.0.1...thumba-0.0.2) (2022-12-19)
+## [thumba-0.0.2](https://github.com/succelle/charts/compare/thumba-0.0.1...thumba-0.0.2) (2022-12-19)
 
 ### Chore
 

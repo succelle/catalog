@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: standardnotes-web
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/standardnotes-web
+  - https://github.com/succelle/charts/tree/master/charts/incubator/standardnotes-web
   - https://hub.docker.com/r/standardnotes/web
   - https://standardnotes.org/
 type: application

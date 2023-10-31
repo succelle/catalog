@@ -1,6 +1,6 @@
 
 
-## [v-rising-2.0.9](https://github.com/truecharts/charts/compare/v-rising-2.0.8...v-rising-2.0.9) (2023-02-10)
+## [v-rising-2.0.9](https://github.com/succelle/charts/compare/v-rising-2.0.8...v-rising-2.0.9) (2023-02-10)
 
 ### Fix
 

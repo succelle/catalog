@@ -1,6 +1,6 @@
 
 
-## [rmlint-2.0.9](https://github.com/truecharts/charts/compare/rmlint-2.0.8...rmlint-2.0.9) (2023-02-10)
+## [rmlint-2.0.9](https://github.com/succelle/charts/compare/rmlint-2.0.8...rmlint-2.0.9) (2023-02-10)
 
 ### Fix
 

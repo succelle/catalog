@@ -21,7 +21,7 @@ maintainers:
     url: https://truecharts.org
 name: guacamole-client
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/guacamole-client
+  - https://github.com/succelle/charts/tree/master/charts/incubator/guacamole-client
   - https://github.com/apache/guacamole-client
   - http://guacamole.incubator.apache.org/doc/gug/introduction.html
 type: application

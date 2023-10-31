@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: pritunl
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/pritunl
+  - https://github.com/succelle/charts/tree/master/charts/incubator/pritunl
   - https://hub.docker.com/r/bashninja/docker-pritunl
   - https://pritunl.com/
 type: application

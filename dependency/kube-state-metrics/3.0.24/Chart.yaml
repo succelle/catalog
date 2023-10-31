@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: kube-state-metrics
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/dependency/kube-state-metrics
+  - https://github.com/succelle/charts/tree/master/charts/dependency/kube-state-metrics
 type: application
 version: 3.0.24
 annotations:

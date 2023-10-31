@@ -1,6 +1,6 @@
 
 
-## [searx-2.0.11](https://github.com/truecharts/charts/compare/searxng-2.0.19...searx-2.0.11) (2023-02-10)
+## [searx-2.0.11](https://github.com/succelle/charts/compare/searxng-2.0.19...searx-2.0.11) (2023-02-10)
 
 ### Fix
 

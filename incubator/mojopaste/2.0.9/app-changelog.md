@@ -1,6 +1,6 @@
 
 
-## [mojopaste-2.0.9](https://github.com/truecharts/charts/compare/mojopaste-2.0.8...mojopaste-2.0.9) (2023-02-10)
+## [mojopaste-2.0.9](https://github.com/succelle/charts/compare/mojopaste-2.0.8...mojopaste-2.0.9) (2023-02-10)
 
 ### Fix
 

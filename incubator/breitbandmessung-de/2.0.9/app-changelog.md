@@ -1,6 +1,6 @@
 
 
-## [breitbandmessung-de-2.0.9](https://github.com/truecharts/charts/compare/breitbandmessung-de-2.0.8...breitbandmessung-de-2.0.9) (2023-02-10)
+## [breitbandmessung-de-2.0.9](https://github.com/succelle/charts/compare/breitbandmessung-de-2.0.8...breitbandmessung-de-2.0.9) (2023-02-10)
 
 ### Fix
 

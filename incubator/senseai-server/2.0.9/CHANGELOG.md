@@ -4,7 +4,7 @@
 
 
 
-## [senseai-server-2.0.9](https://github.com/truecharts/charts/compare/senseai-server-2.0.8...senseai-server-2.0.9) (2023-02-10)
+## [senseai-server-2.0.9](https://github.com/succelle/charts/compare/senseai-server-2.0.8...senseai-server-2.0.9) (2023-02-10)
 
 ### Fix
 
@@ -13,39 +13,30 @@
   
 
 
-## [senseai-server-2.0.8](https://github.com/truecharts/charts/compare/senseai-server-2.0.7...senseai-server-2.0.8) (2023-02-03)
+## [senseai-server-2.0.8](https://github.com/succelle/charts/compare/senseai-server-2.0.7...senseai-server-2.0.8) (2023-02-03)
 
 
 
 
-## [senseai-server-2.0.7](https://github.com/truecharts/charts/compare/senseai-server-2.0.6...senseai-server-2.0.7) (2022-12-27)
-
-### Chore
-
-- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
-  
-  
-
-
-## [senseai-server-2.0.6](https://github.com/truecharts/charts/compare/senseai-server-2.0.5...senseai-server-2.0.6) (2022-12-26)
+## [senseai-server-2.0.7](https://github.com/succelle/charts/compare/senseai-server-2.0.6...senseai-server-2.0.7) (2022-12-27)
 
 ### Chore
 
-- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+- update helm general non-major ([#5856](https://github.com/succelle/charts/issues/5856))
   
   
 
 
-## [senseai-server-2.0.5](https://github.com/truecharts/charts/compare/senseai-server-2.0.4...senseai-server-2.0.5) (2022-12-25)
+## [senseai-server-2.0.6](https://github.com/succelle/charts/compare/senseai-server-2.0.5...senseai-server-2.0.6) (2022-12-26)
 
 ### Chore
 
-- update helm general non-major
+- update helm general non-major ([#5839](https://github.com/succelle/charts/issues/5839))
   
   
 
 
-## [senseai-server-2.0.4](https://github.com/truecharts/charts/compare/senseai-server-2.0.3...senseai-server-2.0.4) (2022-12-19)
+## [senseai-server-2.0.5](https://github.com/succelle/charts/compare/senseai-server-2.0.4...senseai-server-2.0.5) (2022-12-25)
 
 ### Chore
 
@@ -54,7 +45,7 @@
   
 
 
-## [senseai-server-2.0.3](https://github.com/truecharts/charts/compare/senseai-server-2.0.2...senseai-server-2.0.3) (2022-12-13)
+## [senseai-server-2.0.4](https://github.com/succelle/charts/compare/senseai-server-2.0.3...senseai-server-2.0.4) (2022-12-19)
 
 ### Chore
 
@@ -63,37 +54,46 @@
   
 
 
-## [senseai-server-2.0.2](https://github.com/truecharts/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
+## [senseai-server-2.0.3](https://github.com/succelle/charts/compare/senseai-server-2.0.2...senseai-server-2.0.3) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
+## [senseai-server-2.0.2](https://github.com/succelle/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
 
 
 
 
-## [senseai-server-2.0.2](https://github.com/truecharts/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
+## [senseai-server-2.0.2](https://github.com/succelle/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
 
 
 
 
-## [senseai-server-2.0.2](https://github.com/truecharts/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
+## [senseai-server-2.0.2](https://github.com/succelle/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
 
 
 
 
-## [senseai-server-2.0.2](https://github.com/truecharts/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
+## [senseai-server-2.0.2](https://github.com/succelle/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
 
 
 
 
-## [senseai-server-2.0.2](https://github.com/truecharts/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
+## [senseai-server-2.0.2](https://github.com/succelle/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
 
 
 
 
-## [senseai-server-2.0.2](https://github.com/truecharts/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
+## [senseai-server-2.0.2](https://github.com/succelle/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
 
 
 
 
-## [senseai-server-2.0.2](https://github.com/truecharts/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
+## [senseai-server-2.0.2](https://github.com/succelle/charts/compare/senseai-server-2.0.1...senseai-server-2.0.2) (2022-11-30)
 
 
 

@@ -17,7 +17,7 @@ maintainers:
     url: https://truecharts.org
 name: protonmail-bridge
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/protonmail-bridge
+  - https://github.com/succelle/charts/tree/master/charts/incubator/protonmail-bridge
   - https://github.com/shenxn/protonmail-bridge-docker
 version: 11.0.0
 annotations:

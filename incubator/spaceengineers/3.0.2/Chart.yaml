@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: spaceengineers
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/spaceengineers
+  - https://github.com/succelle/charts/tree/master/charts/incubator/spaceengineers
   - https://github.com/Devidian/docker-spaceengineers
 type: application
 version: 3.0.2

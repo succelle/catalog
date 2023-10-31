@@ -1,6 +1,6 @@
 
 
-## [shapeshifter-obfuscator-2.0.9](https://github.com/truecharts/charts/compare/shapeshifter-obfuscator-2.0.8...shapeshifter-obfuscator-2.0.9) (2023-02-10)
+## [shapeshifter-obfuscator-2.0.9](https://github.com/succelle/charts/compare/shapeshifter-obfuscator-2.0.8...shapeshifter-obfuscator-2.0.9) (2023-02-10)
 
 ### Fix
 

@@ -4,44 +4,44 @@
 
 
 
-## [photostructure-3.0.3](https://github.com/truecharts/charts/compare/photostructure-3.0.2...photostructure-3.0.3) (2023-07-30)
+## [photostructure-3.0.3](https://github.com/succelle/charts/compare/photostructure-3.0.2...photostructure-3.0.3) (2023-07-30)
 
 ### Chore
 
-- update helm general non-major ([#11034](https://github.com/truecharts/charts/issues/11034))
+- update helm general non-major ([#11034](https://github.com/succelle/charts/issues/11034))
   
   
 
 
-## [photostructure-3.0.2](https://github.com/truecharts/charts/compare/photostructure-3.0.1...photostructure-3.0.2) (2023-07-29)
+## [photostructure-3.0.2](https://github.com/succelle/charts/compare/photostructure-3.0.1...photostructure-3.0.2) (2023-07-29)
 
 ### Chore
 
-- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+- update helm general non-major ([#10955](https://github.com/succelle/charts/issues/10955))
   
   
 
 
-## [photostructure-3.0.1](https://github.com/truecharts/charts/compare/photostructure-3.0.0...photostructure-3.0.1) (2023-07-22)
+## [photostructure-3.0.1](https://github.com/succelle/charts/compare/photostructure-3.0.0...photostructure-3.0.1) (2023-07-22)
 
 
 
 
-## [photostructure-3.0.0](https://github.com/truecharts/charts/compare/photostructure-2.0.9...photostructure-3.0.0) (2023-07-08)
+## [photostructure-3.0.0](https://github.com/succelle/charts/compare/photostructure-2.0.9...photostructure-3.0.0) (2023-07-08)
 
 ### Feat
 
-- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+- hide advanced ingress options behind checbox ([#9203](https://github.com/succelle/charts/issues/9203))
   
   ### Fix
 
 - fix mistakes on questions.yaml
-  - fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+  - fix indentation ([#8536](https://github.com/succelle/charts/issues/8536))
   
   
 
 
-## [photostructure-2.0.9](https://github.com/truecharts/charts/compare/photostructure-2.0.8...photostructure-2.0.9) (2023-02-10)
+## [photostructure-2.0.9](https://github.com/succelle/charts/compare/photostructure-2.0.8...photostructure-2.0.9) (2023-02-10)
 
 ### Fix
 
@@ -50,43 +50,34 @@
   
 
 
-## [photostructure-2.0.8](https://github.com/truecharts/charts/compare/photostructure-2.0.7...photostructure-2.0.8) (2023-02-02)
+## [photostructure-2.0.8](https://github.com/succelle/charts/compare/photostructure-2.0.7...photostructure-2.0.8) (2023-02-02)
 
 ### Fix
 
-- remove non-link sources ([#6826](https://github.com/truecharts/charts/issues/6826))
+- remove non-link sources ([#6826](https://github.com/succelle/charts/issues/6826))
   
   
 
 
-## [photostructure-2.0.7](https://github.com/truecharts/charts/compare/photostructure-2.0.6...photostructure-2.0.7) (2022-12-27)
+## [photostructure-2.0.7](https://github.com/succelle/charts/compare/photostructure-2.0.6...photostructure-2.0.7) (2022-12-27)
 
 ### Chore
 
-- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+- update helm general non-major ([#5856](https://github.com/succelle/charts/issues/5856))
   
   
 
 
-## [photostructure-2.0.6](https://github.com/truecharts/charts/compare/photostructure-2.0.5...photostructure-2.0.6) (2022-12-26)
+## [photostructure-2.0.6](https://github.com/succelle/charts/compare/photostructure-2.0.5...photostructure-2.0.6) (2022-12-26)
 
 ### Chore
 
-- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+- update helm general non-major ([#5839](https://github.com/succelle/charts/issues/5839))
   
   
 
 
-## [photostructure-2.0.5](https://github.com/truecharts/charts/compare/photostructure-2.0.4...photostructure-2.0.5) (2022-12-25)
-
-### Chore
-
-- update helm general non-major
-  
-  
-
-
-## [photostructure-2.0.4](https://github.com/truecharts/charts/compare/photostructure-2.0.3...photostructure-2.0.4) (2022-12-19)
+## [photostructure-2.0.5](https://github.com/succelle/charts/compare/photostructure-2.0.4...photostructure-2.0.5) (2022-12-25)
 
 ### Chore
 
@@ -95,5 +86,14 @@
   
 
 
-## [photostructure-2.0.3](https://github.com/truecharts/charts/compare/photostructure-2.0.2...photostructure-2.0.3) (2022-12-13)
+## [photostructure-2.0.4](https://github.com/succelle/charts/compare/photostructure-2.0.3...photostructure-2.0.4) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
+## [photostructure-2.0.3](https://github.com/succelle/charts/compare/photostructure-2.0.2...photostructure-2.0.3) (2022-12-13)
 

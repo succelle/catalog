@@ -4,6 +4,6 @@
 
 ### Feat
 
-- Rework GUI templates ([#7545](https://github.com/truecharts/charts/issues/7545))
+- Rework GUI templates ([#7545](https://github.com/succelle/charts/issues/7545))
   
   

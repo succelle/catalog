@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: cleanarr
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/cleanarr
+  - https://github.com/succelle/charts/tree/master/charts/incubator/cleanarr
   - https://hub.docker.com/r/selexin/cleanarr
   - https://github.com/se1exin/cleanarr
 type: application

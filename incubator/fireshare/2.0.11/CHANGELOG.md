@@ -4,7 +4,7 @@
 
 
 
-## [fireshare-2.0.11](https://github.com/truecharts/charts/compare/fireshare-2.0.10...fireshare-2.0.11) (2023-02-10)
+## [fireshare-2.0.11](https://github.com/succelle/charts/compare/fireshare-2.0.10...fireshare-2.0.11) (2023-02-10)
 
 ### Fix
 
@@ -13,34 +13,34 @@
   
 
 
-## [fireshare-2.0.10](https://github.com/truecharts/charts/compare/fireshare-2.0.9...fireshare-2.0.10) (2023-02-02)
+## [fireshare-2.0.10](https://github.com/succelle/charts/compare/fireshare-2.0.9...fireshare-2.0.10) (2023-02-02)
 
 ### Fix
 
-- remove non-link sources ([#6826](https://github.com/truecharts/charts/issues/6826))
+- remove non-link sources ([#6826](https://github.com/succelle/charts/issues/6826))
   
   
 
 
-## [fireshare-2.0.9](https://github.com/truecharts/charts/compare/fireshare-2.0.8...fireshare-2.0.9) (2022-12-27)
+## [fireshare-2.0.9](https://github.com/succelle/charts/compare/fireshare-2.0.8...fireshare-2.0.9) (2022-12-27)
 
 ### Chore
 
-- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+- update helm general non-major ([#5856](https://github.com/succelle/charts/issues/5856))
   
   
 
 
-## [fireshare-2.0.8](https://github.com/truecharts/charts/compare/fireshare-2.0.7...fireshare-2.0.8) (2022-12-26)
+## [fireshare-2.0.8](https://github.com/succelle/charts/compare/fireshare-2.0.7...fireshare-2.0.8) (2022-12-26)
 
 ### Chore
 
-- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+- update helm general non-major ([#5839](https://github.com/succelle/charts/issues/5839))
   
   
 
 
-## [fireshare-2.0.7](https://github.com/truecharts/charts/compare/fireshare-2.0.6...fireshare-2.0.7) (2022-12-25)
+## [fireshare-2.0.7](https://github.com/succelle/charts/compare/fireshare-2.0.6...fireshare-2.0.7) (2022-12-25)
 
 ### Chore
 
@@ -49,7 +49,7 @@
   
 
 
-## [fireshare-2.0.6](https://github.com/truecharts/charts/compare/fireshare-2.0.5...fireshare-2.0.6) (2022-12-23)
+## [fireshare-2.0.6](https://github.com/succelle/charts/compare/fireshare-2.0.5...fireshare-2.0.6) (2022-12-23)
 
 ### Chore
 
@@ -58,7 +58,7 @@
   
 
 
-## [fireshare-2.0.5](https://github.com/truecharts/charts/compare/fireshare-2.0.4...fireshare-2.0.5) (2022-12-19)
+## [fireshare-2.0.5](https://github.com/succelle/charts/compare/fireshare-2.0.4...fireshare-2.0.5) (2022-12-19)
 
 ### Chore
 
@@ -67,7 +67,7 @@
   
 
 
-## [fireshare-2.0.4](https://github.com/truecharts/charts/compare/fireshare-2.0.3...fireshare-2.0.4) (2022-12-13)
+## [fireshare-2.0.4](https://github.com/succelle/charts/compare/fireshare-2.0.3...fireshare-2.0.4) (2022-12-13)
 
 ### Chore
 
@@ -76,24 +76,24 @@
   
 
 
-## [fireshare-2.0.3](https://github.com/truecharts/charts/compare/fireshare-2.0.2...fireshare-2.0.3) (2022-12-11)
+## [fireshare-2.0.3](https://github.com/succelle/charts/compare/fireshare-2.0.2...fireshare-2.0.3) (2022-12-11)
 
 ### Fix
 
-- decode keys before reencode ([#5258](https://github.com/truecharts/charts/issues/5258))
+- decode keys before reencode ([#5258](https://github.com/succelle/charts/issues/5258))
   
   
 
 
-## [fireshare-2.0.2](https://github.com/truecharts/charts/compare/fireshare-2.0.1...fireshare-2.0.2) (2022-11-30)
+## [fireshare-2.0.2](https://github.com/succelle/charts/compare/fireshare-2.0.1...fireshare-2.0.2) (2022-11-30)
 
 
 
 
-## [fireshare-2.0.2](https://github.com/truecharts/charts/compare/fireshare-2.0.1...fireshare-2.0.2) (2022-11-30)
+## [fireshare-2.0.2](https://github.com/succelle/charts/compare/fireshare-2.0.1...fireshare-2.0.2) (2022-11-30)
 
 
 
 
-## [fireshare-2.0.2](https://github.com/truecharts/charts/compare/fireshare-2.0.1...fireshare-2.0.2) (2022-11-30)
+## [fireshare-2.0.2](https://github.com/succelle/charts/compare/fireshare-2.0.1...fireshare-2.0.2) (2022-11-30)
 

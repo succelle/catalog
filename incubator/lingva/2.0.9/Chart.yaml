@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: lingva
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/lingva
+  - https://github.com/succelle/charts/tree/master/charts/incubator/lingva
   - https://hub.docker.com/r/thedaviddelta/lingva-translate
   - https://github.com/TheDavidDelta/lingva-translate
 type: application

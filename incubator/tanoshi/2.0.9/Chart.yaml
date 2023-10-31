@@ -26,7 +26,7 @@ maintainers:
     url: https://truecharts.org
 name: tanoshi
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/tanoshi
+  - https://github.com/succelle/charts/tree/master/charts/incubator/tanoshi
   - https://hub.docker.com/r/faldez/tanoshi
   - https://github.com/faldez/tanoshi
 type: application

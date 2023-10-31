@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: stackedit
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/stackedit
+  - https://github.com/succelle/charts/tree/master/charts/incubator/stackedit
   - https://hub.docker.com/r/qmcgaw/stackedit
   - https://stackedit.io/
 type: application

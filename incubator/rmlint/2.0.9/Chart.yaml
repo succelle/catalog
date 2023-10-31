@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: rmlint
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/rmlint
+  - https://github.com/succelle/charts/tree/master/charts/incubator/rmlint
   - https://hub.docker.com/r/bobbintb/docker-rmlint-unraid
   - https://github.com/sahib/rmlint
 type: application

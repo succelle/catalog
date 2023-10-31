@@ -26,7 +26,7 @@ maintainers:
     url: https://truecharts.org
 name: rss-proxy
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/rss-proxy
+  - https://github.com/succelle/charts/tree/master/charts/incubator/rss-proxy
   - https://hub.docker.com/r/damoeb/rss-proxy
   - https://github.com/damoeb/rss-proxy
 type: application

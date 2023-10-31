@@ -4,7 +4,7 @@
 
 
 
-## [cowyo-2.0.9](https://github.com/truecharts/charts/compare/cowyo-2.0.8...cowyo-2.0.9) (2023-02-10)
+## [cowyo-2.0.9](https://github.com/succelle/charts/compare/cowyo-2.0.8...cowyo-2.0.9) (2023-02-10)
 
 ### Fix
 
@@ -13,43 +13,34 @@
   
 
 
-## [cowyo-2.0.8](https://github.com/truecharts/charts/compare/cowyo-2.0.7...cowyo-2.0.8) (2023-02-02)
+## [cowyo-2.0.8](https://github.com/succelle/charts/compare/cowyo-2.0.7...cowyo-2.0.8) (2023-02-02)
 
 ### Fix
 
-- remove non-link sources ([#6826](https://github.com/truecharts/charts/issues/6826))
+- remove non-link sources ([#6826](https://github.com/succelle/charts/issues/6826))
   
   
 
 
-## [cowyo-2.0.7](https://github.com/truecharts/charts/compare/cowyo-2.0.6...cowyo-2.0.7) (2022-12-27)
+## [cowyo-2.0.7](https://github.com/succelle/charts/compare/cowyo-2.0.6...cowyo-2.0.7) (2022-12-27)
 
 ### Chore
 
-- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+- update helm general non-major ([#5856](https://github.com/succelle/charts/issues/5856))
   
   
 
 
-## [cowyo-2.0.6](https://github.com/truecharts/charts/compare/cowyo-2.0.5...cowyo-2.0.6) (2022-12-26)
+## [cowyo-2.0.6](https://github.com/succelle/charts/compare/cowyo-2.0.5...cowyo-2.0.6) (2022-12-26)
 
 ### Chore
 
-- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+- update helm general non-major ([#5839](https://github.com/succelle/charts/issues/5839))
   
   
 
 
-## [cowyo-2.0.5](https://github.com/truecharts/charts/compare/cowyo-2.0.4...cowyo-2.0.5) (2022-12-25)
-
-### Chore
-
-- update helm general non-major
-  
-  
-
-
-## [cowyo-2.0.4](https://github.com/truecharts/charts/compare/cowyo-2.0.3...cowyo-2.0.4) (2022-12-19)
+## [cowyo-2.0.5](https://github.com/succelle/charts/compare/cowyo-2.0.4...cowyo-2.0.5) (2022-12-25)
 
 ### Chore
 
@@ -58,7 +49,7 @@
   
 
 
-## [cowyo-2.0.3](https://github.com/truecharts/charts/compare/cowyo-2.0.2...cowyo-2.0.3) (2022-12-13)
+## [cowyo-2.0.4](https://github.com/succelle/charts/compare/cowyo-2.0.3...cowyo-2.0.4) (2022-12-19)
 
 ### Chore
 
@@ -67,32 +58,41 @@
   
 
 
-## [cowyo-2.0.2](https://github.com/truecharts/charts/compare/cowyo-2.0.1...cowyo-2.0.2) (2022-11-30)
+## [cowyo-2.0.3](https://github.com/succelle/charts/compare/cowyo-2.0.2...cowyo-2.0.3) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
+## [cowyo-2.0.2](https://github.com/succelle/charts/compare/cowyo-2.0.1...cowyo-2.0.2) (2022-11-30)
 
 
 
 
-## [cowyo-2.0.2](https://github.com/truecharts/charts/compare/cowyo-2.0.1...cowyo-2.0.2) (2022-11-30)
+## [cowyo-2.0.2](https://github.com/succelle/charts/compare/cowyo-2.0.1...cowyo-2.0.2) (2022-11-30)
 
 
 
 
-## [cowyo-2.0.2](https://github.com/truecharts/charts/compare/cowyo-2.0.1...cowyo-2.0.2) (2022-11-30)
+## [cowyo-2.0.2](https://github.com/succelle/charts/compare/cowyo-2.0.1...cowyo-2.0.2) (2022-11-30)
 
 
 
 
-## [cowyo-2.0.2](https://github.com/truecharts/charts/compare/cowyo-2.0.1...cowyo-2.0.2) (2022-11-30)
+## [cowyo-2.0.2](https://github.com/succelle/charts/compare/cowyo-2.0.1...cowyo-2.0.2) (2022-11-30)
 
 
 
 
-## [cowyo-2.0.2](https://github.com/truecharts/charts/compare/cowyo-2.0.1...cowyo-2.0.2) (2022-11-30)
+## [cowyo-2.0.2](https://github.com/succelle/charts/compare/cowyo-2.0.1...cowyo-2.0.2) (2022-11-30)
 
 
 
 
-## [cowyo-2.0.2](https://github.com/truecharts/charts/compare/cowyo-2.0.1...cowyo-2.0.2) (2022-11-30)
+## [cowyo-2.0.2](https://github.com/succelle/charts/compare/cowyo-2.0.1...cowyo-2.0.2) (2022-11-30)
 
 
 

@@ -1,6 +1,6 @@
 
 
-## [pingvin-share-0.0.23](https://github.com/truecharts/charts/compare/pingvin-share-0.0.22...pingvin-share-0.0.23) (2023-02-13)
+## [pingvin-share-0.0.23](https://github.com/succelle/charts/compare/pingvin-share-0.0.22...pingvin-share-0.0.23) (2023-02-13)
 
 ### Chore
 

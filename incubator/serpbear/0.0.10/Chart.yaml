@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: serpbear
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/serpbear
+  - https://github.com/succelle/charts/tree/master/charts/incubator/serpbear
   - https://hub.docker.com/r/towfiqi/serpbear
   - https://github.com/towfiqi/serpbear
 type: application

@@ -1,6 +1,6 @@
 
 
-## [xware-2.0.9](https://github.com/truecharts/charts/compare/xware-2.0.8...xware-2.0.9) (2023-02-10)
+## [xware-2.0.9](https://github.com/succelle/charts/compare/xware-2.0.8...xware-2.0.9) (2023-02-10)
 
 ### Fix
 

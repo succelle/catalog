@@ -14,7 +14,7 @@ keywords:
   - MediaServer-Music
   - MediaServer-Photos
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/universal-media-server
+  - https://github.com/succelle/charts/tree/master/charts/incubator/universal-media-server
   - https://www.universalmediaserver.com/
 dependencies:
   - name: common

@@ -30,7 +30,7 @@ maintainers:
     url: https://truecharts.org
 name: imgpush
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/imgpush
+  - https://github.com/succelle/charts/tree/master/charts/incubator/imgpush
   - https://hub.docker.com/r/hauxir/imgpush
   - https://github.com/hauxir/imgpush
 type: application

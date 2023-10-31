@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: amvd
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/amvd
+  - https://github.com/succelle/charts/tree/master/charts/incubator/amvd
   - https://hub.docker.com/r/randomninjaatk/amvd
   - https://github.com/RandomNinjaAtk/docker-amvd
 type: application

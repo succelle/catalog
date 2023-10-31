@@ -1,6 +1,6 @@
 
 
-## [vaulthunters-2.0.9](https://github.com/truecharts/charts/compare/vaulthunters-2.0.8...vaulthunters-2.0.9) (2023-02-10)
+## [vaulthunters-2.0.9](https://github.com/succelle/charts/compare/vaulthunters-2.0.8...vaulthunters-2.0.9) (2023-02-10)
 
 ### Fix
 

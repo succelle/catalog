@@ -11,7 +11,7 @@ icon: https://truecharts.org/img/hotlink-ok/chart-icons/fancyindex.png
 keywords:
   - fancyindex
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/fancyindex
+  - https://github.com/succelle/charts/tree/master/charts/incubator/fancyindex
   - https://hub.docker.com/r/xal3xhx/fancy
   - https://github.com/xal3xhx/fancyindex
 dependencies:

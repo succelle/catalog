@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: mattermost
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/mattermost
+  - https://github.com/succelle/charts/tree/master/charts/incubator/mattermost
   - https://github.com/mattermost/mattermost-server
   - https://github.com/mattermost/docker
 version: 8.0.0

@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: thumba
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/thumba
+  - https://github.com/succelle/charts/tree/master/charts/incubator/thumba
   - https://hub.docker.com/r/bokker/thumba
   - https://github.com/BoKKeR/thumba
 type: application

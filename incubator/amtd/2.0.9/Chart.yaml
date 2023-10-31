@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: amtd
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/amtd
+  - https://github.com/succelle/charts/tree/master/charts/incubator/amtd
   - https://hub.docker.com/r/randomninjaatk/amtd
   - https://github.com/RandomNinjaAtk/docker-amtd
 type: application

@@ -1,6 +1,6 @@
 
 
-## [arma3-2.0.8](https://github.com/truecharts/charts/compare/arma3exilemod-2.0.8...arma3-2.0.8) (2023-02-10)
+## [arma3-2.0.8](https://github.com/succelle/charts/compare/arma3exilemod-2.0.8...arma3-2.0.8) (2023-02-10)
 
 ### Fix
 

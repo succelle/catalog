@@ -1,6 +1,6 @@
 
 
-## [amvd-2.0.9](https://github.com/truecharts/charts/compare/amvd-2.0.8...amvd-2.0.9) (2023-02-10)
+## [amvd-2.0.9](https://github.com/succelle/charts/compare/amvd-2.0.8...amvd-2.0.9) (2023-02-10)
 
 ### Fix
 

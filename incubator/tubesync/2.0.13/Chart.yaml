@@ -26,7 +26,7 @@ maintainers:
     url: https://truecharts.org
 name: tubesync
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/tubesync
+  - https://github.com/succelle/charts/tree/master/charts/incubator/tubesync
   - https://github.com/meeb/tubesync
   - https://registry.hub.docker.com/r/ghcr.io/meeb/tubesync
 type: application

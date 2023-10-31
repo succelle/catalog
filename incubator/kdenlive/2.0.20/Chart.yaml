@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: kdenlive
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/kdenlive
+  - https://github.com/succelle/charts/tree/master/charts/incubator/kdenlive
   - https://kdenlive.org/
   - https://github.com/orgs/linuxserver/packages/container/package/kdenlive
   - https://github.com/linuxserver/docker-kdenlive#readme

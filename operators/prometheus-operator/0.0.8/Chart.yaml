@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: prometheus-operator
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/operators/prometheus-operator
+  - https://github.com/succelle/charts/tree/master/charts/operators/prometheus-operator
   - https://github.com/prometheus-operator
 type: application
 version: 0.0.8

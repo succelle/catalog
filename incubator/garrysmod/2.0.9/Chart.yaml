@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: garrysmod
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/garrysmod
+  - https://github.com/succelle/charts/tree/master/charts/incubator/garrysmod
   - https://hub.docker.com/r/ich777/steamcmd
   - https://www.steampowered.com/
 type: application

@@ -28,7 +28,7 @@ maintainers:
     url: https://truecharts.org
 name: quickshare
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/quickshare
+  - https://github.com/succelle/charts/tree/master/charts/incubator/quickshare
   - https://github.com/ihexxa/quickshare
 type: application
 version: 2.0.11

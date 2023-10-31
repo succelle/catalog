@@ -11,7 +11,7 @@ icon: https://truecharts.org/img/hotlink-ok/chart-icons/pidgin.png
 keywords:
   - pidgin
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/pidgin
+  - https://github.com/succelle/charts/tree/master/charts/incubator/pidgin
 dependencies:
   - name: common
     repository: https://library-charts.truecharts.org

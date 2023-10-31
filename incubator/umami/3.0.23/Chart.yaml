@@ -21,7 +21,7 @@ maintainers:
     url: https://truecharts.org
 name: umami
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/umami
+  - https://github.com/succelle/charts/tree/master/charts/incubator/umami
   - https://ghcr.io/umami-software/umami
   - https://github.com/umami-software/umami
 version: 3.0.23

@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: s3backup
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/s3backup
+  - https://github.com/succelle/charts/tree/master/charts/incubator/s3backup
   - https://hub.docker.com/r/joch/s3backup
   - https://registry.hub.docker.com/r/joch/s3backup/
 type: application

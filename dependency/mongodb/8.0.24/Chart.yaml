@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: mongodb
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/dependency/mongodb
+  - https://github.com/succelle/charts/tree/master/charts/dependency/mongodb
   - https://github.com/bitnami/bitnami-docker-mongodb
   - https://www.mongodb.com
 type: application

@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: scprime
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/scprime
+  - https://github.com/succelle/charts/tree/master/charts/incubator/scprime
   - https://hub.docker.com/r/scprime/scprime
   - https://scpri.me
 type: application

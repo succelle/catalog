@@ -31,7 +31,7 @@ maintainers:
     url: https://truecharts.org
 name: authelia
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/enterprise/authelia
+  - https://github.com/succelle/charts/tree/master/charts/enterprise/authelia
   - https://github.com/authelia/chartrepo
   - https://github.com/authelia/authelia
 type: application

@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: suistartpage
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/suistartpage
+  - https://github.com/succelle/charts/tree/master/charts/incubator/suistartpage
   - https://hub.docker.com/r/corneliousjd/sui-startpage
   - https://github.com/CorneliousJD/SUI-Startpage
 type: application

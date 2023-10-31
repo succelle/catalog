@@ -1,6 +1,6 @@
 
 
-## [avorion-2.0.9](https://github.com/truecharts/charts/compare/avorion-2.0.8...avorion-2.0.9) (2023-02-10)
+## [avorion-2.0.9](https://github.com/succelle/charts/compare/avorion-2.0.8...avorion-2.0.9) (2023-02-10)
 
 ### Fix
 

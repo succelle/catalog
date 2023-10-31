@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: fastcom-mqtt
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/fastcom-mqtt
+  - https://github.com/succelle/charts/tree/master/charts/incubator/fastcom-mqtt
   - https://hub.docker.com/r/simonjenny/fastcom-mqtt
   - https://github.com/simonjenny/fastcom-mqtt
 type: application

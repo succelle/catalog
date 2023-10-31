@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: facturascripts
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/facturascripts
+  - https://github.com/succelle/charts/tree/master/charts/incubator/facturascripts
   - https://hub.docker.com/r/unraides/facturascripts
   - https://facturascripts.com/
 type: application

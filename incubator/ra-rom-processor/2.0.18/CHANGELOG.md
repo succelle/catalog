@@ -4,7 +4,7 @@
 
 
 
-## [ra-rom-processor-2.0.18](https://github.com/truecharts/charts/compare/ra-rom-processor-2.0.17...ra-rom-processor-2.0.18) (2023-02-26)
+## [ra-rom-processor-2.0.18](https://github.com/succelle/charts/compare/ra-rom-processor-2.0.17...ra-rom-processor-2.0.18) (2023-02-26)
 
 ### Chore
 
@@ -13,7 +13,7 @@
   
 
 
-## [ra-rom-processor-2.0.17](https://github.com/truecharts/charts/compare/ra-rom-processor-2.0.16...ra-rom-processor-2.0.17) (2023-02-10)
+## [ra-rom-processor-2.0.17](https://github.com/succelle/charts/compare/ra-rom-processor-2.0.16...ra-rom-processor-2.0.17) (2023-02-10)
 
 ### Fix
 
@@ -22,7 +22,7 @@
   
 
 
-## [ra-rom-processor-2.0.16](https://github.com/truecharts/charts/compare/ra-rom-processor-2.0.15...ra-rom-processor-2.0.16) (2023-02-03)
+## [ra-rom-processor-2.0.16](https://github.com/succelle/charts/compare/ra-rom-processor-2.0.15...ra-rom-processor-2.0.16) (2023-02-03)
 
 ### Chore
 
@@ -31,16 +31,16 @@
   
 
 
-## [ra-rom-processor-2.0.15](https://github.com/truecharts/charts/compare/ra-rom-processor-2.0.14...ra-rom-processor-2.0.15) (2023-02-02)
+## [ra-rom-processor-2.0.15](https://github.com/succelle/charts/compare/ra-rom-processor-2.0.14...ra-rom-processor-2.0.15) (2023-02-02)
 
 ### Fix
 
-- remove non-link sources ([#6826](https://github.com/truecharts/charts/issues/6826))
+- remove non-link sources ([#6826](https://github.com/succelle/charts/issues/6826))
   
   
 
 
-## [ra-rom-processor-2.0.14](https://github.com/truecharts/charts/compare/ra-rom-processor-2.0.13...ra-rom-processor-2.0.14) (2023-01-24)
+## [ra-rom-processor-2.0.14](https://github.com/succelle/charts/compare/ra-rom-processor-2.0.13...ra-rom-processor-2.0.14) (2023-01-24)
 
 ### Chore
 
@@ -49,7 +49,7 @@
   
 
 
-## [ra-rom-processor-2.0.13](https://github.com/truecharts/charts/compare/ra-rom-processor-2.0.12...ra-rom-processor-2.0.13) (2023-01-12)
+## [ra-rom-processor-2.0.13](https://github.com/succelle/charts/compare/ra-rom-processor-2.0.12...ra-rom-processor-2.0.13) (2023-01-12)
 
 ### Chore
 
@@ -58,7 +58,7 @@
   
 
 
-## [ra-rom-processor-2.0.12](https://github.com/truecharts/charts/compare/ra-rom-processor-2.0.11...ra-rom-processor-2.0.12) (2023-01-07)
+## [ra-rom-processor-2.0.12](https://github.com/succelle/charts/compare/ra-rom-processor-2.0.11...ra-rom-processor-2.0.12) (2023-01-07)
 
 ### Chore
 
@@ -67,25 +67,25 @@
   
 
 
-## [ra-rom-processor-2.0.11](https://github.com/truecharts/charts/compare/ra-rom-processor-2.0.10...ra-rom-processor-2.0.11) (2022-12-27)
+## [ra-rom-processor-2.0.11](https://github.com/succelle/charts/compare/ra-rom-processor-2.0.10...ra-rom-processor-2.0.11) (2022-12-27)
 
 ### Chore
 
-- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+- update helm general non-major ([#5856](https://github.com/succelle/charts/issues/5856))
   
   
 
 
-## [ra-rom-processor-2.0.10](https://github.com/truecharts/charts/compare/ra-rom-processor-2.0.9...ra-rom-processor-2.0.10) (2022-12-26)
+## [ra-rom-processor-2.0.10](https://github.com/succelle/charts/compare/ra-rom-processor-2.0.9...ra-rom-processor-2.0.10) (2022-12-26)
 
 ### Chore
 
-- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+- update helm general non-major ([#5839](https://github.com/succelle/charts/issues/5839))
   
   
 
 
-## [ra-rom-processor-2.0.9](https://github.com/truecharts/charts/compare/ra-rom-processor-2.0.8...ra-rom-processor-2.0.9) (2022-12-25)
+## [ra-rom-processor-2.0.9](https://github.com/succelle/charts/compare/ra-rom-processor-2.0.8...ra-rom-processor-2.0.9) (2022-12-25)
 
 ### Chore
 
@@ -94,6 +94,6 @@
   
 
 
-## [ra-rom-processor-2.0.8](https://github.com/truecharts/charts/compare/ra-rom-processor-2.0.7...ra-rom-processor-2.0.8) (2022-12-25)
+## [ra-rom-processor-2.0.8](https://github.com/succelle/charts/compare/ra-rom-processor-2.0.7...ra-rom-processor-2.0.8) (2022-12-25)
 
 ### Chore

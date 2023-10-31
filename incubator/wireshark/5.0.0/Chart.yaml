@@ -11,7 +11,7 @@ icon: https://truecharts.org/img/hotlink-ok/chart-icons/wireshark.png
 keywords:
   - wireshark
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/wireshark
+  - https://github.com/succelle/charts/tree/master/charts/incubator/wireshark
 dependencies:
   - name: common
     repository: https://library-charts.truecharts.org

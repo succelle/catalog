@@ -23,7 +23,7 @@ maintainers:
     url: https://truecharts.org
 name: statping-ng
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/statping-ng
+  - https://github.com/succelle/charts/tree/master/charts/incubator/statping-ng
   - https://github.com/statping/statping
 type: application
 version: 12.0.0

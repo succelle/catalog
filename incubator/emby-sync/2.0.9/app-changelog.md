@@ -1,6 +1,6 @@
 
 
-## [emby-sync-2.0.9](https://github.com/truecharts/charts/compare/emby-sync-2.0.8...emby-sync-2.0.9) (2023-02-10)
+## [emby-sync-2.0.9](https://github.com/succelle/charts/compare/emby-sync-2.0.8...emby-sync-2.0.9) (2023-02-10)
 
 ### Fix
 

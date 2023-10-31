@@ -1,6 +1,6 @@
 
 
-## [hassconfigurator-2.0.10](https://github.com/truecharts/charts/compare/hassconfigurator-2.0.9...hassconfigurator-2.0.10) (2023-02-10)
+## [hassconfigurator-2.0.10](https://github.com/succelle/charts/compare/hassconfigurator-2.0.9...hassconfigurator-2.0.10) (2023-02-10)
 
 ### Fix
 

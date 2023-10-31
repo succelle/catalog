@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: livebook
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/livebook
+  - https://github.com/succelle/charts/tree/master/charts/incubator/livebook
   - https://hub.docker.com/r/livebook/livebook
   - https://livebook.dev/
 type: application

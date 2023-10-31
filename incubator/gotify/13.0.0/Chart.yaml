@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: gotify
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/gotify
+  - https://github.com/succelle/charts/tree/master/charts/incubator/gotify
   - https://gotify.net/
   - https://github.com/gotify/server
 type: application

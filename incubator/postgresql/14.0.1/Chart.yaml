@@ -20,7 +20,7 @@ maintainers:
     url: https://truecharts.org
 name: postgresql
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/postgresql
+  - https://github.com/succelle/charts/tree/master/charts/incubator/postgresql
   - https://www.postgresql.org/
 type: application
 version: 14.0.1

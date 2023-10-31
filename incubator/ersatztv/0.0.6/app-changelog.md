@@ -1,6 +1,6 @@
 
 
-## [ersatztv-0.0.6](https://github.com/truecharts/charts/compare/ersatztv-0.0.5...ersatztv-0.0.6) (2023-02-23)
+## [ersatztv-0.0.6](https://github.com/succelle/charts/compare/ersatztv-0.0.5...ersatztv-0.0.6) (2023-02-23)
 
 ### Chore
 

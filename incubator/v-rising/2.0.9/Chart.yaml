@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: v-rising
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/v-rising
+  - https://github.com/succelle/charts/tree/master/charts/incubator/v-rising
   - https://hub.docker.com/r/ich777/steamcmd
   - https://steampowered.com/
 type: application

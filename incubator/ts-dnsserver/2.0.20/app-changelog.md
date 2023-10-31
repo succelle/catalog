@@ -1,6 +1,6 @@
 
 
-## [ts-dnsserver-2.0.20](https://github.com/truecharts/charts/compare/ts-dnsserver-2.0.19...ts-dnsserver-2.0.20) (2023-02-10)
+## [ts-dnsserver-2.0.20](https://github.com/succelle/charts/compare/ts-dnsserver-2.0.19...ts-dnsserver-2.0.20) (2023-02-10)
 
 ### Fix
 

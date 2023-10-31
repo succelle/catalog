@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: pwm
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/pwm
+  - https://github.com/succelle/charts/tree/master/charts/incubator/pwm
   - https://hub.docker.com/r/fjudith/pwm
   - https://github.com/pwm-project/pwm
 type: application

@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: funkwhale
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/funkwhale
+  - https://github.com/succelle/charts/tree/master/charts/incubator/funkwhale
   - https://funkwhale.audio/
 type: application
 version: 3.0.2

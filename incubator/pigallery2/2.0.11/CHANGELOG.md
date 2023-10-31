@@ -4,7 +4,7 @@
 
 
 
-## [pigallery2-2.0.11](https://github.com/truecharts/charts/compare/pigallery2-2.0.10...pigallery2-2.0.11) (2023-02-10)
+## [pigallery2-2.0.11](https://github.com/succelle/charts/compare/pigallery2-2.0.10...pigallery2-2.0.11) (2023-02-10)
 
 ### Fix
 
@@ -13,16 +13,16 @@
   
 
 
-## [pigallery2-2.0.10](https://github.com/truecharts/charts/compare/pigallery2-2.0.9...pigallery2-2.0.10) (2023-02-03)
+## [pigallery2-2.0.10](https://github.com/succelle/charts/compare/pigallery2-2.0.9...pigallery2-2.0.10) (2023-02-03)
 
 ### Fix
 
--  clean more non-link sources ([#6925](https://github.com/truecharts/charts/issues/6925))
+-  clean more non-link sources ([#6925](https://github.com/succelle/charts/issues/6925))
   
   
 
 
-## [pigallery2-2.0.9](https://github.com/truecharts/charts/compare/pigallery2-2.0.8...pigallery2-2.0.9) (2023-01-18)
+## [pigallery2-2.0.9](https://github.com/succelle/charts/compare/pigallery2-2.0.8...pigallery2-2.0.9) (2023-01-18)
 
 ### Chore
 
@@ -31,7 +31,7 @@
   
 
 
-## [pigallery2-2.0.8](https://github.com/truecharts/charts/compare/pigallery2-2.0.7...pigallery2-2.0.8) (2023-01-12)
+## [pigallery2-2.0.8](https://github.com/succelle/charts/compare/pigallery2-2.0.7...pigallery2-2.0.8) (2023-01-12)
 
 ### Chore
 
@@ -40,34 +40,25 @@
   
 
 
-## [pigallery2-2.0.7](https://github.com/truecharts/charts/compare/pigallery2-2.0.6...pigallery2-2.0.7) (2022-12-27)
+## [pigallery2-2.0.7](https://github.com/succelle/charts/compare/pigallery2-2.0.6...pigallery2-2.0.7) (2022-12-27)
 
 ### Chore
 
-- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+- update helm general non-major ([#5856](https://github.com/succelle/charts/issues/5856))
   
   
 
 
-## [pigallery2-2.0.6](https://github.com/truecharts/charts/compare/pigallery2-2.0.5...pigallery2-2.0.6) (2022-12-26)
+## [pigallery2-2.0.6](https://github.com/succelle/charts/compare/pigallery2-2.0.5...pigallery2-2.0.6) (2022-12-26)
 
 ### Chore
 
-- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+- update helm general non-major ([#5839](https://github.com/succelle/charts/issues/5839))
   
   
 
 
-## [pigallery2-2.0.5](https://github.com/truecharts/charts/compare/pigallery2-2.0.4...pigallery2-2.0.5) (2022-12-25)
-
-### Chore
-
-- update helm general non-major
-  
-  
-
-
-## [pigallery2-2.0.4](https://github.com/truecharts/charts/compare/pigallery2-2.0.3...pigallery2-2.0.4) (2022-12-19)
+## [pigallery2-2.0.5](https://github.com/succelle/charts/compare/pigallery2-2.0.4...pigallery2-2.0.5) (2022-12-25)
 
 ### Chore
 
@@ -76,7 +67,7 @@
   
 
 
-## [pigallery2-2.0.3](https://github.com/truecharts/charts/compare/pigallery2-2.0.2...pigallery2-2.0.3) (2022-12-13)
+## [pigallery2-2.0.4](https://github.com/succelle/charts/compare/pigallery2-2.0.3...pigallery2-2.0.4) (2022-12-19)
 
 ### Chore
 
@@ -85,15 +76,24 @@
   
 
 
-## [pigallery2-2.0.2](https://github.com/truecharts/charts/compare/pigallery2-2.0.1...pigallery2-2.0.2) (2022-11-30)
+## [pigallery2-2.0.3](https://github.com/succelle/charts/compare/pigallery2-2.0.2...pigallery2-2.0.3) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
+## [pigallery2-2.0.2](https://github.com/succelle/charts/compare/pigallery2-2.0.1...pigallery2-2.0.2) (2022-11-30)
 
 
 
 
-## [pigallery2-2.0.2](https://github.com/truecharts/charts/compare/pigallery2-2.0.1...pigallery2-2.0.2) (2022-11-30)
+## [pigallery2-2.0.2](https://github.com/succelle/charts/compare/pigallery2-2.0.1...pigallery2-2.0.2) (2022-11-30)
 
 
 
 
-## [pigallery2-2.0.2](https://github.com/truecharts/charts/compare/pigallery2-2.0.1...pigallery2-2.0.2) (2022-11-30)
+## [pigallery2-2.0.2](https://github.com/succelle/charts/compare/pigallery2-2.0.1...pigallery2-2.0.2) (2022-11-30)
 

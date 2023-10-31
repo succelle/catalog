@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: clickhouse
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/dependency/clickhouse
+  - https://github.com/succelle/charts/tree/master/charts/dependency/clickhouse
   - https://clickhouse.com/
 type: application
 version: 7.0.10

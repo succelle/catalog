@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: bwapp
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/bwapp
+  - https://github.com/succelle/charts/tree/master/charts/incubator/bwapp
   - https://hub.docker.com/r/raesene/bwapp
   - https://sourceforge.net/projects/bwapp/
 type: application

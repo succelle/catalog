@@ -1,9 +1,9 @@
 
 
-## [prometheus-13.0.4](https://github.com/truecharts/charts/compare/prometheus-13.0.3...prometheus-13.0.4) (2023-10-07)
+## [prometheus-13.0.4](https://github.com/succelle/charts/compare/prometheus-13.0.3...prometheus-13.0.4) (2023-10-07)
 
 ### Chore
 
-- update helm general non-major ([#13386](https://github.com/truecharts/charts/issues/13386))
+- update helm general non-major ([#13386](https://github.com/succelle/charts/issues/13386))
   
   

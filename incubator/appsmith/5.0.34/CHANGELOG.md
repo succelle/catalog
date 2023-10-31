@@ -4,16 +4,16 @@
 
 
 
-## [appsmith-5.0.34](https://github.com/truecharts/charts/compare/appsmith-5.0.33...appsmith-5.0.34) (2023-02-27)
+## [appsmith-5.0.34](https://github.com/succelle/charts/compare/appsmith-5.0.33...appsmith-5.0.34) (2023-02-27)
 
 ### Chore
 
-- update helm general non-major ([#7725](https://github.com/truecharts/charts/issues/7725))
+- update helm general non-major ([#7725](https://github.com/succelle/charts/issues/7725))
   
   
 
 
-## [appsmith-5.0.33](https://github.com/truecharts/charts/compare/appsmith-5.0.32...appsmith-5.0.33) (2023-02-27)
+## [appsmith-5.0.33](https://github.com/succelle/charts/compare/appsmith-5.0.32...appsmith-5.0.33) (2023-02-27)
 
 ### Chore
 
@@ -22,7 +22,7 @@
   
 
 
-## [appsmith-5.0.32](https://github.com/truecharts/charts/compare/appsmith-5.0.31...appsmith-5.0.32) (2023-02-21)
+## [appsmith-5.0.32](https://github.com/succelle/charts/compare/appsmith-5.0.31...appsmith-5.0.32) (2023-02-21)
 
 ### Chore
 
@@ -31,7 +31,7 @@
   
 
 
-## [appsmith-5.0.31](https://github.com/truecharts/charts/compare/appsmith-5.0.30...appsmith-5.0.31) (2023-02-19)
+## [appsmith-5.0.31](https://github.com/succelle/charts/compare/appsmith-5.0.30...appsmith-5.0.31) (2023-02-19)
 
 ### Chore
 
@@ -40,7 +40,7 @@
   
 
 
-## [appsmith-5.0.30](https://github.com/truecharts/charts/compare/appsmith-5.0.29...appsmith-5.0.30) (2023-02-10)
+## [appsmith-5.0.30](https://github.com/succelle/charts/compare/appsmith-5.0.29...appsmith-5.0.30) (2023-02-10)
 
 ### Fix
 
@@ -49,7 +49,7 @@
   
 
 
-## [appsmith-5.0.29](https://github.com/truecharts/charts/compare/appsmith-5.0.28...appsmith-5.0.29) (2023-02-08)
+## [appsmith-5.0.29](https://github.com/succelle/charts/compare/appsmith-5.0.28...appsmith-5.0.29) (2023-02-08)
 
 ### Chore
 
@@ -58,12 +58,12 @@
   
 
 
-## [appsmith-5.0.28](https://github.com/truecharts/charts/compare/appsmith-5.0.27...appsmith-5.0.28) (2023-02-03)
+## [appsmith-5.0.28](https://github.com/succelle/charts/compare/appsmith-5.0.27...appsmith-5.0.28) (2023-02-03)
 
 
 
 
-## [appsmith-5.0.27](https://github.com/truecharts/charts/compare/appsmith-5.0.26...appsmith-5.0.27) (2023-01-31)
+## [appsmith-5.0.27](https://github.com/succelle/charts/compare/appsmith-5.0.26...appsmith-5.0.27) (2023-01-31)
 
 ### Chore
 
@@ -72,7 +72,7 @@
   
 
 
-## [appsmith-5.0.26](https://github.com/truecharts/charts/compare/appsmith-5.0.25...appsmith-5.0.26) (2023-01-23)
+## [appsmith-5.0.26](https://github.com/succelle/charts/compare/appsmith-5.0.25...appsmith-5.0.26) (2023-01-23)
 
 ### Chore
 
@@ -81,7 +81,7 @@
   
 
 
-## [appsmith-5.0.25](https://github.com/truecharts/charts/compare/appsmith-5.0.24...appsmith-5.0.25) (2023-01-19)
+## [appsmith-5.0.25](https://github.com/succelle/charts/compare/appsmith-5.0.24...appsmith-5.0.25) (2023-01-19)
 
 ### Chore
 
@@ -90,10 +90,10 @@
   
 
 
-## [appsmith-5.0.24](https://github.com/truecharts/charts/compare/appsmith-5.0.23...appsmith-5.0.24) (2023-01-17)
+## [appsmith-5.0.24](https://github.com/succelle/charts/compare/appsmith-5.0.23...appsmith-5.0.24) (2023-01-17)
 
 ### Chore
 
-- update helm general non-major ([#6430](https://github.com/truecharts/charts/issues/6430))
+- update helm general non-major ([#6430](https://github.com/succelle/charts/issues/6430))
   
   

@@ -12,7 +12,7 @@ keywords:
   - st-reborn-server
   - gameserver
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/st-reborn-server
+  - https://github.com/succelle/charts/tree/master/charts/incubator/st-reborn-server
   - https://hub.docker.com/r/tiltedphoques/st-reborn-server
   - https://github.com/tiltedphoques/TiltedEvolution
 dependencies:

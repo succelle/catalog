@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: pastey
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/pastey
+  - https://github.com/succelle/charts/tree/master/charts/incubator/pastey
   - https://github.com/Cesura/pastey
 type: application
 version: 3.0.4

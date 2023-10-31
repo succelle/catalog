@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: owntracks
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/owntracks
+  - https://github.com/succelle/charts/tree/master/charts/incubator/owntracks
   - https://github.com/owntracks/recorder
   - https://github.com/owntracks/docker-recorder
 type: application

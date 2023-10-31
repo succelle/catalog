@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: adguardhome-sync
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/adguardhome-sync
+  - https://github.com/succelle/charts/tree/master/charts/incubator/adguardhome-sync
   - https://github.com/bakito/adguardhome-sync/
   - https://ghcr.io/bakito/adguardhome-sync
 type: application

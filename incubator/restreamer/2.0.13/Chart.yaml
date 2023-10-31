@@ -14,7 +14,7 @@ keywords:
   - MediaApp-Video
   - Productivity
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/restreamer
+  - https://github.com/succelle/charts/tree/master/charts/incubator/restreamer
   - https://hub.docker.com/r/datarhei/restreamer
   - https://datarhei.github.io/restreamer/
 dependencies:

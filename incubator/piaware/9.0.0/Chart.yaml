@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: piaware
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/piaware
+  - https://github.com/succelle/charts/tree/master/charts/incubator/piaware
   - https://github.com/flightaware/piaware
 version: 9.0.0
 annotations:

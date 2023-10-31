@@ -27,7 +27,7 @@ maintainers:
     url: https://truecharts.org
 name: lychee
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/lychee
+  - https://github.com/succelle/charts/tree/master/charts/incubator/lychee
   - https://github.com/LycheeOrg/Lychee
 type: application
 version: 17.0.0

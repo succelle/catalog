@@ -17,7 +17,7 @@ maintainers:
     url: https://truecharts.org
 name: midarr
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/midarr
+  - https://github.com/succelle/charts/tree/master/charts/incubator/midarr
   - https://github.com/midarrlabs/midarr-server
 version: 4.0.3
 annotations:

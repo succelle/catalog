@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: ml-workspace
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/ml-workspace
+  - https://github.com/succelle/charts/tree/master/charts/incubator/ml-workspace
   - https://github.com/ml-tooling/ml-workspace
 version: 5.0.0
 annotations:

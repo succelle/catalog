@@ -1,6 +1,6 @@
 
 
-## [xonotic-2.0.9](https://github.com/truecharts/charts/compare/xonotic-2.0.8...xonotic-2.0.9) (2023-02-10)
+## [xonotic-2.0.9](https://github.com/succelle/charts/compare/xonotic-2.0.8...xonotic-2.0.9) (2023-02-10)
 
 ### Fix
 

@@ -1,6 +1,6 @@
 
 
-## [openra-2.0.9](https://github.com/truecharts/charts/compare/openra-2.0.8...openra-2.0.9) (2023-02-10)
+## [openra-2.0.9](https://github.com/succelle/charts/compare/openra-2.0.8...openra-2.0.9) (2023-02-10)
 
 ### Fix
 

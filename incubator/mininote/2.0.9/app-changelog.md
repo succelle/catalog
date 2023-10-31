@@ -1,6 +1,6 @@
 
 
-## [mininote-2.0.9](https://github.com/truecharts/charts/compare/mininote-2.0.8...mininote-2.0.9) (2023-02-10)
+## [mininote-2.0.9](https://github.com/succelle/charts/compare/mininote-2.0.8...mininote-2.0.9) (2023-02-10)
 
 ### Fix
 

@@ -4,7 +4,7 @@
 
 
 
-## [qwantify-0.0.4](https://github.com/truecharts/charts/compare/qwantify-0.0.3...qwantify-0.0.4) (2023-02-10)
+## [qwantify-0.0.4](https://github.com/succelle/charts/compare/qwantify-0.0.3...qwantify-0.0.4) (2023-02-10)
 
 ### Fix
 
@@ -13,7 +13,7 @@
   
 
 
-## [qwantify-0.0.3](https://github.com/truecharts/charts/compare/qwantify-0.0.2...qwantify-0.0.3) (2023-02-03)
+## [qwantify-0.0.3](https://github.com/succelle/charts/compare/qwantify-0.0.2...qwantify-0.0.3) (2023-02-03)
 
 ### Chore
 
@@ -22,7 +22,7 @@
   
 
 
-## [qwantify-0.0.2](https://github.com/truecharts/charts/compare/qwantify-0.0.1...qwantify-0.0.2) (2023-01-27)
+## [qwantify-0.0.2](https://github.com/succelle/charts/compare/qwantify-0.0.1...qwantify-0.0.2) (2023-01-27)
 
 ### Chore
 

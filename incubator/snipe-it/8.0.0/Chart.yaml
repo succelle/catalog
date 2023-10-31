@@ -27,7 +27,7 @@ maintainers:
     url: https://truecharts.org
 name: snipe-it
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/snipe-it
+  - https://github.com/succelle/charts/tree/master/charts/incubator/snipe-it
   - https://snipeitapp.com/
   - https://github.com/snipe/snipe-it
 version: 8.0.0

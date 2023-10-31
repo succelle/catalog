@@ -11,7 +11,7 @@ icon: https://truecharts.org/img/hotlink-ok/chart-icons/libreoffice.png
 keywords:
   - libreoffice
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/libreoffice
+  - https://github.com/succelle/charts/tree/master/charts/incubator/libreoffice
 dependencies:
   - name: common
     repository: https://library-charts.truecharts.org

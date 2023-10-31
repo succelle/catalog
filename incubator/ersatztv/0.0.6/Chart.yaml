@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: ersatztv
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/ersatztv
+  - https://github.com/succelle/charts/tree/master/charts/incubator/ersatztv
   - https://hub.docker.com/r/jasongdove/ersatztv
   - https://github.com/jasongdove/ErsatzTV
 type: application

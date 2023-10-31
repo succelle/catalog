@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: goaccess
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/goaccess
+  - https://github.com/succelle/charts/tree/master/charts/incubator/goaccess
   - https://hub.docker.com/r/gregyankovoy/goaccess
 type: application
 version: 2.0.8

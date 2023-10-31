@@ -17,7 +17,7 @@ maintainers:
     url: https://truecharts.org
 name: plex-meta-manager
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/plex-meta-manager
+  - https://github.com/succelle/charts/tree/master/charts/incubator/plex-meta-manager
   - https://github.com/meisnate12/Plex-Meta-Manager
 type: application
 version: 3.0.3

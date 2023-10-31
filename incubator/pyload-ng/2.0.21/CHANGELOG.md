@@ -4,29 +4,29 @@
 
 
 
-## [pyload-ng-2.0.21](https://github.com/truecharts/charts/compare/pyload-ng-2.0.20...pyload-ng-2.0.21) (2023-05-02)
+## [pyload-ng-2.0.21](https://github.com/succelle/charts/compare/pyload-ng-2.0.20...pyload-ng-2.0.21) (2023-05-02)
 
 ### Chore
 
-- update container image tccr.io/truecharts/pyload-ng to latest ([#8680](https://github.com/truecharts/charts/issues/8680))
+- update container image tccr.io/truecharts/pyload-ng to latest ([#8680](https://github.com/succelle/charts/issues/8680))
   
   
 
 
-## [pyload-ng-2.0.20](https://github.com/truecharts/charts/compare/pyload-ng-2.0.19...pyload-ng-2.0.20) (2023-04-30)
+## [pyload-ng-2.0.20](https://github.com/succelle/charts/compare/pyload-ng-2.0.19...pyload-ng-2.0.20) (2023-04-30)
 
 ### Chore
 
-- update container image tccr.io/truecharts/pyload-ng to latest ([#8351](https://github.com/truecharts/charts/issues/8351))
+- update container image tccr.io/truecharts/pyload-ng to latest ([#8351](https://github.com/succelle/charts/issues/8351))
   
   ### Fix
 
-- fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+- fix indentation ([#8536](https://github.com/succelle/charts/issues/8536))
   
   
 
 
-## [pyload-ng-2.0.19](https://github.com/truecharts/charts/compare/pyload-ng-2.0.18...pyload-ng-2.0.19) (2023-02-26)
+## [pyload-ng-2.0.19](https://github.com/succelle/charts/compare/pyload-ng-2.0.18...pyload-ng-2.0.19) (2023-02-26)
 
 ### Chore
 
@@ -35,7 +35,7 @@
   
 
 
-## [pyload-ng-2.0.18](https://github.com/truecharts/charts/compare/pyload-ng-2.0.17...pyload-ng-2.0.18) (2023-02-15)
+## [pyload-ng-2.0.18](https://github.com/succelle/charts/compare/pyload-ng-2.0.17...pyload-ng-2.0.18) (2023-02-15)
 
 ### Chore
 
@@ -44,7 +44,7 @@
   
 
 
-## [pyload-ng-2.0.17](https://github.com/truecharts/charts/compare/pyload-ng-2.0.16...pyload-ng-2.0.17) (2023-02-10)
+## [pyload-ng-2.0.17](https://github.com/succelle/charts/compare/pyload-ng-2.0.16...pyload-ng-2.0.17) (2023-02-10)
 
 ### Fix
 
@@ -53,7 +53,7 @@
   
 
 
-## [pyload-ng-2.0.16](https://github.com/truecharts/charts/compare/pyload-ng-2.0.15...pyload-ng-2.0.16) (2023-02-06)
+## [pyload-ng-2.0.16](https://github.com/succelle/charts/compare/pyload-ng-2.0.15...pyload-ng-2.0.16) (2023-02-06)
 
 ### Chore
 
@@ -62,7 +62,7 @@
   
 
 
-## [pyload-ng-2.0.15](https://github.com/truecharts/charts/compare/pyload-ng-2.0.14...pyload-ng-2.0.15) (2023-01-24)
+## [pyload-ng-2.0.15](https://github.com/succelle/charts/compare/pyload-ng-2.0.14...pyload-ng-2.0.15) (2023-01-24)
 
 ### Chore
 
@@ -71,7 +71,7 @@
   
 
 
-## [pyload-ng-2.0.14](https://github.com/truecharts/charts/compare/pyload-ng-2.0.13...pyload-ng-2.0.14) (2023-01-18)
+## [pyload-ng-2.0.14](https://github.com/succelle/charts/compare/pyload-ng-2.0.13...pyload-ng-2.0.14) (2023-01-18)
 
 ### Chore
 
@@ -80,7 +80,7 @@
   
 
 
-## [pyload-ng-2.0.13](https://github.com/truecharts/charts/compare/pyload-ng-2.0.12...pyload-ng-2.0.13) (2023-01-12)
+## [pyload-ng-2.0.13](https://github.com/succelle/charts/compare/pyload-ng-2.0.12...pyload-ng-2.0.13) (2023-01-12)
 
 ### Chore
 
@@ -89,7 +89,7 @@
   
 
 
-## [pyload-ng-2.0.12](https://github.com/truecharts/charts/compare/pyload-ng-2.0.11...pyload-ng-2.0.12) (2023-01-07)
+## [pyload-ng-2.0.12](https://github.com/succelle/charts/compare/pyload-ng-2.0.11...pyload-ng-2.0.12) (2023-01-07)
 
 ### Chore
 

@@ -4,7 +4,7 @@
 
 
 
-## [moviegrabber-2.0.9](https://github.com/truecharts/charts/compare/moviegrabber-2.0.8...moviegrabber-2.0.9) (2023-02-10)
+## [moviegrabber-2.0.9](https://github.com/succelle/charts/compare/moviegrabber-2.0.8...moviegrabber-2.0.9) (2023-02-10)
 
 ### Fix
 
@@ -13,39 +13,30 @@
   
 
 
-## [moviegrabber-2.0.8](https://github.com/truecharts/charts/compare/moviegrabber-2.0.7...moviegrabber-2.0.8) (2023-02-03)
+## [moviegrabber-2.0.8](https://github.com/succelle/charts/compare/moviegrabber-2.0.7...moviegrabber-2.0.8) (2023-02-03)
 
 
 
 
-## [moviegrabber-2.0.7](https://github.com/truecharts/charts/compare/moviegrabber-2.0.6...moviegrabber-2.0.7) (2022-12-27)
-
-### Chore
-
-- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
-  
-  
-
-
-## [moviegrabber-2.0.6](https://github.com/truecharts/charts/compare/moviegrabber-2.0.5...moviegrabber-2.0.6) (2022-12-26)
+## [moviegrabber-2.0.7](https://github.com/succelle/charts/compare/moviegrabber-2.0.6...moviegrabber-2.0.7) (2022-12-27)
 
 ### Chore
 
-- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+- update helm general non-major ([#5856](https://github.com/succelle/charts/issues/5856))
   
   
 
 
-## [moviegrabber-2.0.5](https://github.com/truecharts/charts/compare/moviegrabber-2.0.4...moviegrabber-2.0.5) (2022-12-25)
+## [moviegrabber-2.0.6](https://github.com/succelle/charts/compare/moviegrabber-2.0.5...moviegrabber-2.0.6) (2022-12-26)
 
 ### Chore
 
-- update helm general non-major
+- update helm general non-major ([#5839](https://github.com/succelle/charts/issues/5839))
   
   
 
 
-## [moviegrabber-2.0.4](https://github.com/truecharts/charts/compare/moviegrabber-2.0.3...moviegrabber-2.0.4) (2022-12-19)
+## [moviegrabber-2.0.5](https://github.com/succelle/charts/compare/moviegrabber-2.0.4...moviegrabber-2.0.5) (2022-12-25)
 
 ### Chore
 
@@ -54,7 +45,7 @@
   
 
 
-## [moviegrabber-2.0.3](https://github.com/truecharts/charts/compare/moviegrabber-2.0.2...moviegrabber-2.0.3) (2022-12-13)
+## [moviegrabber-2.0.4](https://github.com/succelle/charts/compare/moviegrabber-2.0.3...moviegrabber-2.0.4) (2022-12-19)
 
 ### Chore
 
@@ -63,37 +54,46 @@
   
 
 
-## [moviegrabber-2.0.2](https://github.com/truecharts/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
+## [moviegrabber-2.0.3](https://github.com/succelle/charts/compare/moviegrabber-2.0.2...moviegrabber-2.0.3) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
+## [moviegrabber-2.0.2](https://github.com/succelle/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
 
 
 
 
-## [moviegrabber-2.0.2](https://github.com/truecharts/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
+## [moviegrabber-2.0.2](https://github.com/succelle/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
 
 
 
 
-## [moviegrabber-2.0.2](https://github.com/truecharts/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
+## [moviegrabber-2.0.2](https://github.com/succelle/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
 
 
 
 
-## [moviegrabber-2.0.2](https://github.com/truecharts/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
+## [moviegrabber-2.0.2](https://github.com/succelle/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
 
 
 
 
-## [moviegrabber-2.0.2](https://github.com/truecharts/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
+## [moviegrabber-2.0.2](https://github.com/succelle/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
 
 
 
 
-## [moviegrabber-2.0.2](https://github.com/truecharts/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
+## [moviegrabber-2.0.2](https://github.com/succelle/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
 
 
 
 
-## [moviegrabber-2.0.2](https://github.com/truecharts/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
+## [moviegrabber-2.0.2](https://github.com/succelle/charts/compare/moviegrabber-2.0.1...moviegrabber-2.0.2) (2022-11-30)
 
 
 

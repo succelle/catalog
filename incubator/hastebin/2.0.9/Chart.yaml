@@ -28,7 +28,7 @@ maintainers:
     url: https://truecharts.org
 name: hastebin
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/hastebin
+  - https://github.com/succelle/charts/tree/master/charts/incubator/hastebin
   - https://hub.docker.com/r/flippinturt/hastebin
   - https://github.com/nzzane/haste-server
 type: application

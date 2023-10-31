@@ -1,6 +1,6 @@
 
 
-## [google-cloud-storage-backup-2.0.9](https://github.com/truecharts/charts/compare/google-cloud-storage-backup-2.0.8...google-cloud-storage-backup-2.0.9) (2023-02-10)
+## [google-cloud-storage-backup-2.0.9](https://github.com/succelle/charts/compare/google-cloud-storage-backup-2.0.8...google-cloud-storage-backup-2.0.9) (2023-02-10)
 
 ### Fix
 

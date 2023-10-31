@@ -1,6 +1,6 @@
 
 
-## [imgpush-2.0.9](https://github.com/truecharts/charts/compare/imgpush-2.0.8...imgpush-2.0.9) (2023-02-10)
+## [imgpush-2.0.9](https://github.com/succelle/charts/compare/imgpush-2.0.8...imgpush-2.0.9) (2023-02-10)
 
 ### Fix
 

@@ -1,6 +1,6 @@
 
 
-## [preclear-2.0.9](https://github.com/truecharts/charts/compare/preclear-2.0.8...preclear-2.0.9) (2023-02-10)
+## [preclear-2.0.9](https://github.com/succelle/charts/compare/preclear-2.0.8...preclear-2.0.9) (2023-02-10)
 
 ### Fix
 

@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: cryptpad
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/cryptpad
+  - https://github.com/succelle/charts/tree/master/charts/incubator/cryptpad
   - https://cryptpad.fr/
 type: application
 version: 3.0.9

@@ -1,6 +1,6 @@
 
 
-## [remotely-2.0.8](https://github.com/truecharts/charts/compare/remotely-2.0.7...remotely-2.0.8) (2023-02-10)
+## [remotely-2.0.8](https://github.com/succelle/charts/compare/remotely-2.0.7...remotely-2.0.8) (2023-02-10)
 
 ### Fix
 

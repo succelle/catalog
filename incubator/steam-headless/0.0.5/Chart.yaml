@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: steam-headless
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/steam-headless
+  - https://github.com/succelle/charts/tree/master/charts/incubator/steam-headless
   - https://github.com/Steam-Headless/docker-steam-headless
 type: application
 version: 0.0.5

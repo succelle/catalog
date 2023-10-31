@@ -1,6 +1,6 @@
 
 
-## [ferdi-client-2.0.9](https://github.com/truecharts/charts/compare/ferdi-client-2.0.8...ferdi-client-2.0.9) (2023-02-10)
+## [ferdi-client-2.0.9](https://github.com/succelle/charts/compare/ferdi-client-2.0.8...ferdi-client-2.0.9) (2023-02-10)
 
 ### Fix
 

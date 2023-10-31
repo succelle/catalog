@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: dvblink
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/dvblink
+  - https://github.com/succelle/charts/tree/master/charts/incubator/dvblink
   - https://hub.docker.com/r/chvb/docker-dvblink
   - http://dvblogic.com
 type: application

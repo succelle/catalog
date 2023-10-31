@@ -17,7 +17,7 @@ maintainers:
     url: https://truecharts.org
 name: loki
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/loki
+  - https://github.com/succelle/charts/tree/master/charts/incubator/loki
   - https://github.com/grafana/loki
 type: application
 version: 11.0.0

@@ -7,11 +7,11 @@
 
 
 
-## [jenkins-4.0.0](https://github.com/truecharts/charts/compare/jenkins-3.0.15...jenkins-4.0.0) (2023-07-31)
+## [jenkins-4.0.0](https://github.com/succelle/charts/compare/jenkins-3.0.15...jenkins-4.0.0) (2023-07-31)
 
 ### Feat
 
-- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+- hide advanced ingress options behind checbox ([#9203](https://github.com/succelle/charts/issues/9203))
   
   ### Fix
 
@@ -20,7 +20,7 @@
   
 
 
-## [jenkins-3.0.15](https://github.com/truecharts/charts/compare/jenkins-3.0.14...jenkins-3.0.15) (2023-02-22)
+## [jenkins-3.0.15](https://github.com/succelle/charts/compare/jenkins-3.0.14...jenkins-3.0.15) (2023-02-22)
 
 ### Chore
 
@@ -29,7 +29,7 @@
   
 
 
-## [jenkins-3.0.14](https://github.com/truecharts/charts/compare/jenkins-3.0.13...jenkins-3.0.14) (2023-02-15)
+## [jenkins-3.0.14](https://github.com/succelle/charts/compare/jenkins-3.0.13...jenkins-3.0.14) (2023-02-15)
 
 ### Chore
 
@@ -38,7 +38,7 @@
   
 
 
-## [jenkins-3.0.13](https://github.com/truecharts/charts/compare/jenkins-3.0.12...jenkins-3.0.13) (2023-02-10)
+## [jenkins-3.0.13](https://github.com/succelle/charts/compare/jenkins-3.0.12...jenkins-3.0.13) (2023-02-10)
 
 ### Fix
 
@@ -47,7 +47,7 @@
   
 
 
-## [jenkins-3.0.12](https://github.com/truecharts/charts/compare/jenkins-3.0.11...jenkins-3.0.12) (2023-02-08)
+## [jenkins-3.0.12](https://github.com/succelle/charts/compare/jenkins-3.0.11...jenkins-3.0.12) (2023-02-08)
 
 ### Chore
 
@@ -56,7 +56,7 @@
   
 
 
-## [jenkins-3.0.11](https://github.com/truecharts/charts/compare/jenkins-3.0.10...jenkins-3.0.11) (2023-02-08)
+## [jenkins-3.0.11](https://github.com/succelle/charts/compare/jenkins-3.0.10...jenkins-3.0.11) (2023-02-08)
 
 ### Chore
 
@@ -65,7 +65,7 @@
   
 
 
-## [jenkins-3.0.10](https://github.com/truecharts/charts/compare/jenkins-3.0.9...jenkins-3.0.10) (2023-02-06)
+## [jenkins-3.0.10](https://github.com/succelle/charts/compare/jenkins-3.0.9...jenkins-3.0.10) (2023-02-06)
 
 ### Chore
 
@@ -74,7 +74,7 @@
   
 
 
-## [jenkins-3.0.9](https://github.com/truecharts/charts/compare/jenkins-3.0.8...jenkins-3.0.9) (2023-02-04)
+## [jenkins-3.0.9](https://github.com/succelle/charts/compare/jenkins-3.0.8...jenkins-3.0.9) (2023-02-04)
 
 ### Chore
 
@@ -83,7 +83,7 @@
   
 
 
-## [jenkins-3.0.8](https://github.com/truecharts/charts/compare/jenkins-3.0.7...jenkins-3.0.8) (2023-02-03)
+## [jenkins-3.0.8](https://github.com/succelle/charts/compare/jenkins-3.0.7...jenkins-3.0.8) (2023-02-03)
 
 ### Chore
 
@@ -92,7 +92,7 @@
   
 
 
-## [jenkins-3.0.7](https://github.com/truecharts/charts/compare/jenkins-3.0.6...jenkins-3.0.7) (2023-02-03)
+## [jenkins-3.0.7](https://github.com/succelle/charts/compare/jenkins-3.0.6...jenkins-3.0.7) (2023-02-03)
 
 ### Chore
 

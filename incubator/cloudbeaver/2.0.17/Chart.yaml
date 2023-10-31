@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: cloudbeaver
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/cloudbeaver
+  - https://github.com/succelle/charts/tree/master/charts/incubator/cloudbeaver
   - https://github.com/dbeaver/cloudbeaver
 type: application
 version: 2.0.17

@@ -1,6 +1,6 @@
 
 
-## [euterpe-3.0.10](https://github.com/truecharts/charts/compare/euterpe-3.0.9...euterpe-3.0.10) (2023-02-10)
+## [euterpe-3.0.10](https://github.com/succelle/charts/compare/euterpe-3.0.9...euterpe-3.0.10) (2023-02-10)
 
 ### Fix
 

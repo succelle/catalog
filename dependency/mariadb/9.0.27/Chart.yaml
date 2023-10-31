@@ -20,7 +20,7 @@ maintainers:
     url: https://truecharts.org
 name: mariadb
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/dependency/mariadb
+  - https://github.com/succelle/charts/tree/master/charts/dependency/mariadb
   - https://github.com/bitnami/bitnami-docker-mariadb
   - https://github.com/prometheus/mysqld_exporter
   - https://mariadb.org

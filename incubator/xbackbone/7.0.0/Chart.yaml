@@ -21,7 +21,7 @@ maintainers:
     url: https://truecharts.org
 name: xbackbone
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/xbackbone
+  - https://github.com/succelle/charts/tree/master/charts/incubator/xbackbone
   - https://github.com/SergiX44/XBackBone
 version: 7.0.0
 annotations:

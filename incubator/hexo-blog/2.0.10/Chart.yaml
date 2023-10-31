@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: hexo-blog
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/hexo-blog
+  - https://github.com/succelle/charts/tree/master/charts/incubator/hexo-blog
   - https://hub.docker.com/r/fletchto99/hexo-dev-blog
   - https://github.com/fletchto99/hexo-dev-docker
 type: application

@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: openra
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/openra
+  - https://github.com/succelle/charts/tree/master/charts/incubator/openra
   - https://hub.docker.com/r/rmoriz/openra
   - http://openra.net/
 type: application

@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: tasmobackup
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/tasmobackup
+  - https://github.com/succelle/charts/tree/master/charts/incubator/tasmobackup
   - https://github.com/danmed/TasmoBackupV1
 type: application
 version: 3.0.3

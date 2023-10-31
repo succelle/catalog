@@ -1,6 +1,6 @@
 
 
-## [thumba-0.0.7](https://github.com/truecharts/charts/compare/thumba-0.0.6...thumba-0.0.7) (2023-02-10)
+## [thumba-0.0.7](https://github.com/succelle/charts/compare/thumba-0.0.6...thumba-0.0.7) (2023-02-10)
 
 ### Fix
 

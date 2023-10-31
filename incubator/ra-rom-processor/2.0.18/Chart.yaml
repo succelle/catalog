@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: ra-rom-processor
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/ra-rom-processor
+  - https://github.com/succelle/charts/tree/master/charts/incubator/ra-rom-processor
   - https://hub.docker.com/r/randomninjaatk/raromprocessor
   - https://github.com/RandomNinjaAtk/docker-raromprocessor
   - https://github.com/RandomNinjaAtk/docker-raromprocessor#instructionsusage-guidelines

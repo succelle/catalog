@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: csgo
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/csgo
+  - https://github.com/succelle/charts/tree/master/charts/incubator/csgo
   - https://hub.docker.com/r/ich777/steamcmd
   - https://www.steampowered.com/
 type: application

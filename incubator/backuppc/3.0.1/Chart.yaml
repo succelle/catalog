@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: backuppc
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/backuppc
+  - https://github.com/succelle/charts/tree/master/charts/incubator/backuppc
   - https://github.com/tiredofit/docker-backuppc
   - https://backuppc.github.io/backuppc/index.html
 type: application

@@ -20,7 +20,7 @@ maintainers:
     url: https://truecharts.org
 name: icloudpd
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/icloudpd
+  - https://github.com/succelle/charts/tree/master/charts/incubator/icloudpd
   - https://github.com/Womabre/-TrueNAS-docker-templates
 type: application
 version: 3.0.1

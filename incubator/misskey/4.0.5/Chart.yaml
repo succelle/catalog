@@ -26,7 +26,7 @@ maintainers:
     url: https://truecharts.org
 name: misskey
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/misskey
+  - https://github.com/succelle/charts/tree/master/charts/incubator/misskey
   - https://github.com/misskey-dev/misskey/
 type: application
 version: 4.0.5

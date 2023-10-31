@@ -23,7 +23,7 @@ maintainers:
     url: https://truecharts.org
 name: synapse
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/synapse
+  - https://github.com/succelle/charts/tree/master/charts/incubator/synapse
 type: application
 version: 8.0.0
 annotations:

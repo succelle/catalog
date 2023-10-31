@@ -17,7 +17,7 @@ maintainers:
     url: https://truecharts.org
 name: photoview
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/photoview
+  - https://github.com/succelle/charts/tree/master/charts/incubator/photoview
   - https://github.com/photoview/photoview
 version: 9.0.1
 annotations:

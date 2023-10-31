@@ -1,6 +1,6 @@
 
 
-## [shaarli-2.0.10](https://github.com/truecharts/charts/compare/shaarli-2.0.9...shaarli-2.0.10) (2023-02-10)
+## [shaarli-2.0.10](https://github.com/succelle/charts/compare/shaarli-2.0.9...shaarli-2.0.10) (2023-02-10)
 
 ### Fix
 

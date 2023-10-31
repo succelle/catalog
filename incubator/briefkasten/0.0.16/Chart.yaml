@@ -21,7 +21,7 @@ maintainers:
     url: https://truecharts.org
 name: briefkasten
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/briefkasten
+  - https://github.com/succelle/charts/tree/master/charts/incubator/briefkasten
   - https://hub.docker.com/r/ndom91/briefkasten
   - https://github.com/ndom91/briefkasten
 type: application

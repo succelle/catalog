@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: external-ip
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/external-ip
+  - https://github.com/succelle/charts/tree/master/charts/incubator/external-ip
   - https://hub.docker.com/r/xavierh/external-ip
   - https://github.com/xavier-hernandez/docker-external-ip
 type: application

@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: fistfuloffrags
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/fistfuloffrags
+  - https://github.com/succelle/charts/tree/master/charts/incubator/fistfuloffrags
   - https://hub.docker.com/r/ich777/steamcmd
   - https://www.steampowered.com/
 type: application

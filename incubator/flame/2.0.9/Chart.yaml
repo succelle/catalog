@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: flame
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/flame
+  - https://github.com/succelle/charts/tree/master/charts/incubator/flame
   - https://hub.docker.com/r/pawelmalak/flame
   - https://github.com/pawelmalak/flame
 type: application

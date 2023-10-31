@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: postscriptum
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/postscriptum
+  - https://github.com/succelle/charts/tree/master/charts/incubator/postscriptum
   - https://hub.docker.com/r/ich777/steamcmd
   - https://www.steampowered.com/
 type: application

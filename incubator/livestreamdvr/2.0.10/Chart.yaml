@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: livestreamdvr
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/livestreamdvr
+  - https://github.com/succelle/charts/tree/master/charts/incubator/livestreamdvr
   - https://hub.docker.com/r/mrbrax/twitchautomator
   - https://github.com/MrBrax/LiveStreamDVR
 type: application

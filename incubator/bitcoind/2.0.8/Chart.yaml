@@ -26,7 +26,7 @@ maintainers:
     url: https://truecharts.org
 name: bitcoind
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/bitcoind
+  - https://github.com/succelle/charts/tree/master/charts/incubator/bitcoind
   - https://hub.docker.com/r/ofawx/bitcoind
   - https://bitcoin.org/
 type: application

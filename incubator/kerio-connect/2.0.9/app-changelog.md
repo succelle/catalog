@@ -1,6 +1,6 @@
 
 
-## [kerio-connect-2.0.9](https://github.com/truecharts/charts/compare/kerio-connect-2.0.8...kerio-connect-2.0.9) (2023-02-10)
+## [kerio-connect-2.0.9](https://github.com/succelle/charts/compare/kerio-connect-2.0.8...kerio-connect-2.0.9) (2023-02-10)
 
 ### Fix
 

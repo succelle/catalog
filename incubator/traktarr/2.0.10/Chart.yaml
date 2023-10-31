@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: traktarr
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/traktarr
+  - https://github.com/succelle/charts/tree/master/charts/incubator/traktarr
   - https://hub.docker.com/r/eafxx/traktarr
   - https://github.com/l3uddz/traktarr
 type: application

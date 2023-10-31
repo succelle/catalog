@@ -1,6 +1,6 @@
 
 
-## [ciao-2.0.12](https://github.com/truecharts/charts/compare/ciao-2.0.11...ciao-2.0.12) (2023-02-10)
+## [ciao-2.0.12](https://github.com/succelle/charts/compare/ciao-2.0.11...ciao-2.0.12) (2023-02-10)
 
 ### Fix
 

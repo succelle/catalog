@@ -30,6 +30,6 @@ maintainers:
     url: https://truecharts.org
 name: sourcegraph
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/sourcegraph
+  - https://github.com/succelle/charts/tree/master/charts/incubator/sourcegraph
 type: application
 version: 2.0.18

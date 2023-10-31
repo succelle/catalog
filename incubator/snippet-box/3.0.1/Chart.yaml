@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: snippet-box
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/snippet-box
+  - https://github.com/succelle/charts/tree/master/charts/incubator/snippet-box
   - https://github.com/pawelmalak/snippet-box
 type: application
 version: 3.0.1

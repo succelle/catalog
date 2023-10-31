@@ -11,7 +11,7 @@ icon: https://truecharts.org/img/hotlink-ok/chart-icons/darktable.png
 keywords:
   - darktable
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/darktable
+  - https://github.com/succelle/charts/tree/master/charts/incubator/darktable
 dependencies:
   - name: common
     repository: https://library-charts.truecharts.org

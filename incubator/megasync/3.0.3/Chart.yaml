@@ -21,7 +21,7 @@ maintainers:
     url: https://truecharts.org
 name: megasync
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/megasync
+  - https://github.com/succelle/charts/tree/master/charts/incubator/megasync
   - https://github.com/ich777/docker-megasync
 type: application
 version: 3.0.3

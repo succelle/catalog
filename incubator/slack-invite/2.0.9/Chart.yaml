@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: slack-invite
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/slack-invite
+  - https://github.com/succelle/charts/tree/master/charts/incubator/slack-invite
   - https://hub.docker.com/r/ninthwalker/slack-invite
   - httpss://github.com/ninthwalker/slack-invite
 type: application

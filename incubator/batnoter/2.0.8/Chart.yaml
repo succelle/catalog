@@ -16,7 +16,7 @@ maintainers:
     url: https://truecharts.org
 name: batnoter
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/batnoter
+  - https://github.com/succelle/charts/tree/master/charts/incubator/batnoter
   - https://ghcr.io/batnoter/batnoter/batnoter-ui
   - https://github.com/batnoter/batnoter
 version: 2.0.8

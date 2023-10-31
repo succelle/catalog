@@ -1,6 +1,6 @@
 
 
-## [assettocorsa-2.0.9](https://github.com/truecharts/charts/compare/assettocorsa-2.0.8...assettocorsa-2.0.9) (2023-02-10)
+## [assettocorsa-2.0.9](https://github.com/succelle/charts/compare/assettocorsa-2.0.8...assettocorsa-2.0.9) (2023-02-10)
 
 ### Fix
 

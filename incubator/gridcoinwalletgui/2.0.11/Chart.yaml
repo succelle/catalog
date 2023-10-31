@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: gridcoinwalletgui
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/gridcoinwalletgui
+  - https://github.com/succelle/charts/tree/master/charts/incubator/gridcoinwalletgui
   - https://gridcoin.us/
 type: application
 version: 2.0.11

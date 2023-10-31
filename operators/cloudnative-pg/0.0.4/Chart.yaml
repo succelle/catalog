@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: cloudnative-pg
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/operators/cloudnative-pg
+  - https://github.com/succelle/charts/tree/master/charts/operators/cloudnative-pg
   - https://github.com/cloudnative-pg
   - https://cloudnative-pg.io/
 type: application

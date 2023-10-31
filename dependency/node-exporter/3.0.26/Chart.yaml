@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: node-exporter
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/dependency/node-exporter
+  - https://github.com/succelle/charts/tree/master/charts/dependency/node-exporter
 type: application
 version: 3.0.26
 annotations:

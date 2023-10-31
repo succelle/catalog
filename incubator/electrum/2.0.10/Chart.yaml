@@ -26,7 +26,7 @@ maintainers:
     url: https://truecharts.org
 name: electrum
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/electrum
+  - https://github.com/succelle/charts/tree/master/charts/incubator/electrum
   - https://electrum.org/
 type: application
 version: 2.0.10

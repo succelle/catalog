@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: rflood
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/rflood
+  - https://github.com/succelle/charts/tree/master/charts/incubator/rflood
   - https://hotio.dev/containers/rflood
 type: application
 version: 2.0.11

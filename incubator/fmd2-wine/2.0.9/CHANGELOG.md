@@ -4,7 +4,7 @@
 
 
 
-## [fmd2-wine-2.0.9](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.8...fmd2-wine-2.0.9) (2023-02-10)
+## [fmd2-wine-2.0.9](https://github.com/succelle/charts/compare/fmd2-wine-2.0.8...fmd2-wine-2.0.9) (2023-02-10)
 
 ### Fix
 
@@ -13,43 +13,34 @@
   
 
 
-## [fmd2-wine-2.0.8](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.7...fmd2-wine-2.0.8) (2023-02-03)
+## [fmd2-wine-2.0.8](https://github.com/succelle/charts/compare/fmd2-wine-2.0.7...fmd2-wine-2.0.8) (2023-02-03)
 
 ### Fix
 
--  clean more non-link sources ([#6925](https://github.com/truecharts/charts/issues/6925))
+-  clean more non-link sources ([#6925](https://github.com/succelle/charts/issues/6925))
   
   
 
 
-## [fmd2-wine-2.0.7](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.6...fmd2-wine-2.0.7) (2022-12-27)
+## [fmd2-wine-2.0.7](https://github.com/succelle/charts/compare/fmd2-wine-2.0.6...fmd2-wine-2.0.7) (2022-12-27)
 
 ### Chore
 
-- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+- update helm general non-major ([#5856](https://github.com/succelle/charts/issues/5856))
   
   
 
 
-## [fmd2-wine-2.0.6](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.5...fmd2-wine-2.0.6) (2022-12-26)
+## [fmd2-wine-2.0.6](https://github.com/succelle/charts/compare/fmd2-wine-2.0.5...fmd2-wine-2.0.6) (2022-12-26)
 
 ### Chore
 
-- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+- update helm general non-major ([#5839](https://github.com/succelle/charts/issues/5839))
   
   
 
 
-## [fmd2-wine-2.0.5](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.4...fmd2-wine-2.0.5) (2022-12-25)
-
-### Chore
-
-- update helm general non-major
-  
-  
-
-
-## [fmd2-wine-2.0.4](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.3...fmd2-wine-2.0.4) (2022-12-19)
+## [fmd2-wine-2.0.5](https://github.com/succelle/charts/compare/fmd2-wine-2.0.4...fmd2-wine-2.0.5) (2022-12-25)
 
 ### Chore
 
@@ -58,7 +49,7 @@
   
 
 
-## [fmd2-wine-2.0.3](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.2...fmd2-wine-2.0.3) (2022-12-13)
+## [fmd2-wine-2.0.4](https://github.com/succelle/charts/compare/fmd2-wine-2.0.3...fmd2-wine-2.0.4) (2022-12-19)
 
 ### Chore
 
@@ -67,32 +58,41 @@
   
 
 
-## [fmd2-wine-2.0.2](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.1...fmd2-wine-2.0.2) (2022-11-30)
+## [fmd2-wine-2.0.3](https://github.com/succelle/charts/compare/fmd2-wine-2.0.2...fmd2-wine-2.0.3) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
+## [fmd2-wine-2.0.2](https://github.com/succelle/charts/compare/fmd2-wine-2.0.1...fmd2-wine-2.0.2) (2022-11-30)
 
 
 
 
-## [fmd2-wine-2.0.2](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.1...fmd2-wine-2.0.2) (2022-11-30)
+## [fmd2-wine-2.0.2](https://github.com/succelle/charts/compare/fmd2-wine-2.0.1...fmd2-wine-2.0.2) (2022-11-30)
 
 
 
 
-## [fmd2-wine-2.0.2](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.1...fmd2-wine-2.0.2) (2022-11-30)
+## [fmd2-wine-2.0.2](https://github.com/succelle/charts/compare/fmd2-wine-2.0.1...fmd2-wine-2.0.2) (2022-11-30)
 
 
 
 
-## [fmd2-wine-2.0.2](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.1...fmd2-wine-2.0.2) (2022-11-30)
+## [fmd2-wine-2.0.2](https://github.com/succelle/charts/compare/fmd2-wine-2.0.1...fmd2-wine-2.0.2) (2022-11-30)
 
 
 
 
-## [fmd2-wine-2.0.2](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.1...fmd2-wine-2.0.2) (2022-11-30)
+## [fmd2-wine-2.0.2](https://github.com/succelle/charts/compare/fmd2-wine-2.0.1...fmd2-wine-2.0.2) (2022-11-30)
 
 
 
 
-## [fmd2-wine-2.0.2](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.1...fmd2-wine-2.0.2) (2022-11-30)
+## [fmd2-wine-2.0.2](https://github.com/succelle/charts/compare/fmd2-wine-2.0.1...fmd2-wine-2.0.2) (2022-11-30)
 
 
 

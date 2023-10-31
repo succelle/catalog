@@ -1,6 +1,6 @@
 
 
-## [dayz-2.0.9](https://github.com/truecharts/charts/compare/dayz-2.0.8...dayz-2.0.9) (2023-02-10)
+## [dayz-2.0.9](https://github.com/succelle/charts/compare/dayz-2.0.8...dayz-2.0.9) (2023-02-10)
 
 ### Fix
 

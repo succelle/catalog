@@ -17,7 +17,7 @@ maintainers:
     url: https://truecharts.org
 name: wbo
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/wbo
+  - https://github.com/succelle/charts/tree/master/charts/incubator/wbo
   - https://github.com/lovasoa/whitebophir
 version: 4.0.0
 annotations:

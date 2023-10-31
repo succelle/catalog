@@ -1,6 +1,6 @@
 
 
-## [batnoter-2.0.8](https://github.com/truecharts/charts/compare/batnoter-2.0.7...batnoter-2.0.8) (2023-02-10)
+## [batnoter-2.0.8](https://github.com/succelle/charts/compare/batnoter-2.0.7...batnoter-2.0.8) (2023-02-10)
 
 ### Fix
 

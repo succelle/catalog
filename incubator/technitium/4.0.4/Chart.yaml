@@ -17,7 +17,7 @@ maintainers:
     url: https://truecharts.org
 name: technitium
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/technitium
+  - https://github.com/succelle/charts/tree/master/charts/incubator/technitium
   - https://github.com/TechnitiumSoftware/DnsServer
   - https://technitium.com/
 type: application

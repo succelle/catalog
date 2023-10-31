@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: kerio-connect
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/kerio-connect
+  - https://github.com/succelle/charts/tree/master/charts/incubator/kerio-connect
   - https://hub.docker.com/r/chvb/docker-kerio-connect
   - http://kerio.com
 type: application

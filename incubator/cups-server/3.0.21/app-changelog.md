@@ -1,6 +1,6 @@
 
 
-## [cups-server-3.0.21](https://github.com/truecharts/charts/compare/cups-server-3.0.20...cups-server-3.0.21) (2023-02-26)
+## [cups-server-3.0.21](https://github.com/succelle/charts/compare/cups-server-3.0.20...cups-server-3.0.21) (2023-02-26)
 
 ### Chore
 

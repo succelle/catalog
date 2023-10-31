@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: barcodebuddy
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/barcodebuddy
+  - https://github.com/succelle/charts/tree/master/charts/incubator/barcodebuddy
   - https://github.com/Forceu/barcodebuddy
 type: application
 version: 2.0.12

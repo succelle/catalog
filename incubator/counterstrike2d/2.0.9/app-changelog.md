@@ -1,6 +1,6 @@
 
 
-## [counterstrike2d-2.0.9](https://github.com/truecharts/charts/compare/counterstrike2d-2.0.8...counterstrike2d-2.0.9) (2023-02-10)
+## [counterstrike2d-2.0.9](https://github.com/succelle/charts/compare/counterstrike2d-2.0.8...counterstrike2d-2.0.9) (2023-02-10)
 
 ### Fix
 

@@ -4,7 +4,7 @@
 
 
 
-## [import-ics-2.0.8](https://github.com/truecharts/charts/compare/import-ics-2.0.7...import-ics-2.0.8) (2023-02-10)
+## [import-ics-2.0.8](https://github.com/succelle/charts/compare/import-ics-2.0.7...import-ics-2.0.8) (2023-02-10)
 
 ### Fix
 
@@ -13,34 +13,25 @@
   
 
 
-## [import-ics-2.0.7](https://github.com/truecharts/charts/compare/import-ics-2.0.6...import-ics-2.0.7) (2022-12-27)
+## [import-ics-2.0.7](https://github.com/succelle/charts/compare/import-ics-2.0.6...import-ics-2.0.7) (2022-12-27)
 
 ### Chore
 
-- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+- update helm general non-major ([#5856](https://github.com/succelle/charts/issues/5856))
   
   
 
 
-## [import-ics-2.0.6](https://github.com/truecharts/charts/compare/import-ics-2.0.5...import-ics-2.0.6) (2022-12-26)
+## [import-ics-2.0.6](https://github.com/succelle/charts/compare/import-ics-2.0.5...import-ics-2.0.6) (2022-12-26)
 
 ### Chore
 
-- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+- update helm general non-major ([#5839](https://github.com/succelle/charts/issues/5839))
   
   
 
 
-## [import-ics-2.0.5](https://github.com/truecharts/charts/compare/import-ics-2.0.4...import-ics-2.0.5) (2022-12-25)
-
-### Chore
-
-- update helm general non-major
-  
-  
-
-
-## [import-ics-2.0.4](https://github.com/truecharts/charts/compare/import-ics-2.0.3...import-ics-2.0.4) (2022-12-19)
+## [import-ics-2.0.5](https://github.com/succelle/charts/compare/import-ics-2.0.4...import-ics-2.0.5) (2022-12-25)
 
 ### Chore
 
@@ -49,7 +40,7 @@
   
 
 
-## [import-ics-2.0.3](https://github.com/truecharts/charts/compare/import-ics-2.0.2...import-ics-2.0.3) (2022-12-13)
+## [import-ics-2.0.4](https://github.com/succelle/charts/compare/import-ics-2.0.3...import-ics-2.0.4) (2022-12-19)
 
 ### Chore
 
@@ -58,42 +49,51 @@
   
 
 
-## [import-ics-2.0.2](https://github.com/truecharts/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
+## [import-ics-2.0.3](https://github.com/succelle/charts/compare/import-ics-2.0.2...import-ics-2.0.3) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
+## [import-ics-2.0.2](https://github.com/succelle/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
 
 
 
 
-## [import-ics-2.0.2](https://github.com/truecharts/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
+## [import-ics-2.0.2](https://github.com/succelle/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
 
 
 
 
-## [import-ics-2.0.2](https://github.com/truecharts/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
+## [import-ics-2.0.2](https://github.com/succelle/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
 
 
 
 
-## [import-ics-2.0.2](https://github.com/truecharts/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
+## [import-ics-2.0.2](https://github.com/succelle/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
 
 
 
 
-## [import-ics-2.0.2](https://github.com/truecharts/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
+## [import-ics-2.0.2](https://github.com/succelle/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
 
 
 
 
-## [import-ics-2.0.2](https://github.com/truecharts/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
+## [import-ics-2.0.2](https://github.com/succelle/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
 
 
 
 
-## [import-ics-2.0.2](https://github.com/truecharts/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
+## [import-ics-2.0.2](https://github.com/succelle/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
 
 
 
 
-## [import-ics-2.0.2](https://github.com/truecharts/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
+## [import-ics-2.0.2](https://github.com/succelle/charts/compare/import-ics-2.0.1...import-ics-2.0.2) (2022-11-30)
 
 
 

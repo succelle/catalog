@@ -1,6 +1,6 @@
 
 
-## [vintage-story-2.0.9](https://github.com/truecharts/charts/compare/vintage-story-2.0.8...vintage-story-2.0.9) (2023-02-10)
+## [vintage-story-2.0.9](https://github.com/succelle/charts/compare/vintage-story-2.0.8...vintage-story-2.0.9) (2023-02-10)
 
 ### Fix
 

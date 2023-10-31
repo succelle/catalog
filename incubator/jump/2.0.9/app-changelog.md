@@ -1,6 +1,6 @@
 
 
-## [jump-2.0.9](https://github.com/truecharts/charts/compare/jump-2.0.8...jump-2.0.9) (2023-02-10)
+## [jump-2.0.9](https://github.com/succelle/charts/compare/jump-2.0.8...jump-2.0.9) (2023-02-10)
 
 ### Fix
 

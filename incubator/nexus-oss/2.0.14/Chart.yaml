@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: nexus-oss
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/nexus-oss
+  - https://github.com/succelle/charts/tree/master/charts/incubator/nexus-oss
 type: application
 version: 2.0.14
 annotations:

@@ -25,7 +25,7 @@ maintainers:
     url: https://truecharts.org
 name: librephotos
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/librephotos
+  - https://github.com/succelle/charts/tree/master/charts/incubator/librephotos
   - https://github.com/LibrePhotos/librephotos
 version: 8.0.0
 annotations:

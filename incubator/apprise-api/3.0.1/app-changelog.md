@@ -1,6 +1,6 @@
 
 
-## [apprise-api-3.0.1](https://github.com/truecharts/charts/compare/apprise-api-3.0.0...apprise-api-3.0.1) (2023-02-24)
+## [apprise-api-3.0.1](https://github.com/succelle/charts/compare/apprise-api-3.0.0...apprise-api-3.0.1) (2023-02-24)
 
 ### Chore
 

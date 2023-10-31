@@ -4,11 +4,11 @@
 
 
 
-## [scrypted-1.0.1](https://github.com/truecharts/charts/compare/scrypted-1.0.0...scrypted-1.0.1) (2023-10-07)
+## [scrypted-1.0.1](https://github.com/succelle/charts/compare/scrypted-1.0.0...scrypted-1.0.1) (2023-10-07)
 
 ### Chore
 
-- update helm general non-major ([#13386](https://github.com/truecharts/charts/issues/13386))
+- update helm general non-major ([#13386](https://github.com/succelle/charts/issues/13386))
   
   
 
@@ -16,11 +16,11 @@
 
 
 
-## [scrypted-1.0.0](https://github.com/truecharts/charts/compare/scrypted-0.0.6...scrypted-1.0.0) (2023-07-31)
+## [scrypted-1.0.0](https://github.com/succelle/charts/compare/scrypted-0.0.6...scrypted-1.0.0) (2023-07-31)
 
 ### Feat
 
-- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+- hide advanced ingress options behind checbox ([#9203](https://github.com/succelle/charts/issues/9203))
   
   ### Fix
 
@@ -29,7 +29,7 @@
   
 
 
-## [scrypted-0.0.6](https://github.com/truecharts/charts/compare/scrypted-0.0.5...scrypted-0.0.6) (2023-02-26)
+## [scrypted-0.0.6](https://github.com/succelle/charts/compare/scrypted-0.0.5...scrypted-0.0.6) (2023-02-26)
 
 ### Chore
 
@@ -38,7 +38,7 @@
   
 
 
-## [scrypted-0.0.5](https://github.com/truecharts/charts/compare/scrypted-0.0.4...scrypted-0.0.5) (2023-02-25)
+## [scrypted-0.0.5](https://github.com/succelle/charts/compare/scrypted-0.0.4...scrypted-0.0.5) (2023-02-25)
 
 ### Chore
 
@@ -47,7 +47,7 @@
   
 
 
-## [scrypted-0.0.4](https://github.com/truecharts/charts/compare/scrypted-0.0.3...scrypted-0.0.4) (2023-02-25)
+## [scrypted-0.0.4](https://github.com/succelle/charts/compare/scrypted-0.0.3...scrypted-0.0.4) (2023-02-25)
 
 ### Chore
 
@@ -56,7 +56,7 @@
   
 
 
-## [scrypted-0.0.3](https://github.com/truecharts/charts/compare/scrypted-0.0.2...scrypted-0.0.3) (2023-02-24)
+## [scrypted-0.0.3](https://github.com/succelle/charts/compare/scrypted-0.0.2...scrypted-0.0.3) (2023-02-24)
 
 ### Chore
 
@@ -66,7 +66,7 @@
   
 
 
-## [scrypted-0.0.2](https://github.com/truecharts/charts/compare/scrypted-0.0.1...scrypted-0.0.2) (2023-02-21)
+## [scrypted-0.0.2](https://github.com/succelle/charts/compare/scrypted-0.0.1...scrypted-0.0.2) (2023-02-21)
 
 ### Chore
 

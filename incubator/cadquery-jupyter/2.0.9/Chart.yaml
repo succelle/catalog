@@ -30,7 +30,7 @@ maintainers:
     url: https://truecharts.org
 name: cadquery-jupyter
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/cadquery-jupyter
+  - https://github.com/succelle/charts/tree/master/charts/incubator/cadquery-jupyter
   - https://hub.docker.com/r/bwalter42/jupyter_cadquery
   - https://github.com/bernhard-42/jupyter-cadquery
 type: application

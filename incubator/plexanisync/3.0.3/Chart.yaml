@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: plexanisync
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/plexanisync
+  - https://github.com/succelle/charts/tree/master/charts/incubator/plexanisync
   - https://github.com/RickDB/PlexAniSync
   - https://github.com/RickDB/PlexAniSync/pkgs/container/plexanisync
 type: application

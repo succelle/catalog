@@ -4,7 +4,7 @@
 
 
 
-## [checkmk-0.0.7](https://github.com/truecharts/charts/compare/checkmk-0.0.6...checkmk-0.0.7) (2023-02-26)
+## [checkmk-0.0.7](https://github.com/succelle/charts/compare/checkmk-0.0.6...checkmk-0.0.7) (2023-02-26)
 
 ### Chore
 
@@ -13,7 +13,7 @@
   
 
 
-## [checkmk-0.0.6](https://github.com/truecharts/charts/compare/checkmk-0.0.5...checkmk-0.0.6) (2023-02-15)
+## [checkmk-0.0.6](https://github.com/succelle/charts/compare/checkmk-0.0.5...checkmk-0.0.6) (2023-02-15)
 
 ### Chore
 
@@ -22,7 +22,7 @@
   
 
 
-## [checkmk-0.0.5](https://github.com/truecharts/charts/compare/checkmk-0.0.4...checkmk-0.0.5) (2023-02-10)
+## [checkmk-0.0.5](https://github.com/succelle/charts/compare/checkmk-0.0.4...checkmk-0.0.5) (2023-02-10)
 
 ### Fix
 
@@ -31,7 +31,7 @@
   
 
 
-## [checkmk-0.0.4](https://github.com/truecharts/charts/compare/checkmk-0.0.3...checkmk-0.0.4) (2023-02-03)
+## [checkmk-0.0.4](https://github.com/succelle/charts/compare/checkmk-0.0.3...checkmk-0.0.4) (2023-02-03)
 
 ### Chore
 
@@ -40,7 +40,7 @@
   
 
 
-## [checkmk-0.0.3](https://github.com/truecharts/charts/compare/checkmk-0.0.2...checkmk-0.0.3) (2023-01-11)
+## [checkmk-0.0.3](https://github.com/succelle/charts/compare/checkmk-0.0.2...checkmk-0.0.3) (2023-01-11)
 
 ### Chore
 
@@ -49,7 +49,7 @@
   
 
 
-## [checkmk-0.0.2](https://github.com/truecharts/charts/compare/checkmk-0.0.1...checkmk-0.0.2) (2023-01-08)
+## [checkmk-0.0.2](https://github.com/succelle/charts/compare/checkmk-0.0.1...checkmk-0.0.2) (2023-01-08)
 
 ### Fix
 

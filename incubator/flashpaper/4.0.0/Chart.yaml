@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: flashpaper
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/flashpaper
+  - https://github.com/succelle/charts/tree/master/charts/incubator/flashpaper
   - https://github.com/AndrewPaglusch/FlashPaper
 type: application
 version: 4.0.0

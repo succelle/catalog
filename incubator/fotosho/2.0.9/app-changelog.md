@@ -1,6 +1,6 @@
 
 
-## [fotosho-2.0.9](https://github.com/truecharts/charts/compare/fotosho-2.0.8...fotosho-2.0.9) (2023-02-10)
+## [fotosho-2.0.9](https://github.com/succelle/charts/compare/fotosho-2.0.8...fotosho-2.0.9) (2023-02-10)
 
 ### Fix
 

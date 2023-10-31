@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: damselfly
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/damselfly
+  - https://github.com/succelle/charts/tree/master/charts/incubator/damselfly
   - https://hub.docker.com/r/webreaper/damselfly
   - https://github.com/Webreaper/Damselfly
 type: application

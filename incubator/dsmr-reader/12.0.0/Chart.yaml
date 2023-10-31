@@ -10,7 +10,7 @@ keywords:
 home: https://truecharts.org/charts/incubator/dsmr-reader
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/dsmr-reader.png
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/dsmr-reader
+  - https://github.com/succelle/charts/tree/master/charts/incubator/dsmr-reader
   - https://github.com/dsmrreader/dsmr-reader
   - https://github.com/xirixiz/dsmr-reader-docker
 dependencies:

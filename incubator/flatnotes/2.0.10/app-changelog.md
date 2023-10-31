@@ -1,6 +1,6 @@
 
 
-## [flatnotes-2.0.10](https://github.com/truecharts/charts/compare/flatnotes-2.0.9...flatnotes-2.0.10) (2023-02-13)
+## [flatnotes-2.0.10](https://github.com/succelle/charts/compare/flatnotes-2.0.9...flatnotes-2.0.10) (2023-02-13)
 
 ### Chore
 

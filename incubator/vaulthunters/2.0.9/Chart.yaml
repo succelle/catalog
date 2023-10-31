@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: vaulthunters
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/vaulthunters
+  - https://github.com/succelle/charts/tree/master/charts/incubator/vaulthunters
   - https://hub.docker.com/r/goobaroo/vaulthunters
   - https://vaulthunters.gg
 type: application

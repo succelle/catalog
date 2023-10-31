@@ -11,7 +11,7 @@ icon: https://truecharts.org/img/hotlink-ok/chart-icons/pydio-cells.png
 keywords:
   - pydio-cells
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/pydio-cells
+  - https://github.com/succelle/charts/tree/master/charts/incubator/pydio-cells
 dependencies:
   - name: common
     repository: https://library-charts.truecharts.org

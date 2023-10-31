@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: unturned
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/unturned
+  - https://github.com/succelle/charts/tree/master/charts/incubator/unturned
   - https://github.com/ich777/docker-steamcmd-server/tree/unturned
 type: application
 version: 3.0.4

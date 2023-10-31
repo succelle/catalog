@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: reactive-resume
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/reactive-resume
+  - https://github.com/succelle/charts/tree/master/charts/incubator/reactive-resume
   - https://github.com/reactive-resume/reactive-resume
 type: application
 version: 3.0.1

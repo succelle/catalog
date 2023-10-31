@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: van-dam
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/van-dam
+  - https://github.com/succelle/charts/tree/master/charts/incubator/van-dam
   - https://github.com/Floppy/van_dam
 type: application
 version: 0.0.2

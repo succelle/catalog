@@ -20,7 +20,7 @@ maintainers:
     url: https://truecharts.org
 name: shiori
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/shiori
+  - https://github.com/succelle/charts/tree/master/charts/incubator/shiori
   - https://github.com/go-shiori/shiori
   - https://github.com/go-shiori/shiori/pkgs/container/shiori
 type: application

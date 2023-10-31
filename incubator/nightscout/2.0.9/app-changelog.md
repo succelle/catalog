@@ -1,6 +1,6 @@
 
 
-## [nightscout-2.0.9](https://github.com/truecharts/charts/compare/nightscout-2.0.8...nightscout-2.0.9) (2023-02-10)
+## [nightscout-2.0.9](https://github.com/succelle/charts/compare/nightscout-2.0.8...nightscout-2.0.9) (2023-02-10)
 
 ### Fix
 

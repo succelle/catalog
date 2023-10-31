@@ -22,7 +22,7 @@ maintainers:
     url: https://truecharts.org
 name: convos
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/convos
+  - https://github.com/succelle/charts/tree/master/charts/incubator/convos
   - https://hub.docker.com/r/convos/convos
   - https://convos.chat/
 type: application

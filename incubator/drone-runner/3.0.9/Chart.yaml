@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: drone-runner
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/drone-runner
+  - https://github.com/succelle/charts/tree/master/charts/incubator/drone-runner
   - https://hub.docker.com/r/drone/drone-runner-docker
   - https://docs.drone.io
 type: application

@@ -9,7 +9,7 @@ keywords:
 home: https://truecharts.org/charts/incubator/jitsi
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/jitsi.png
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/jitsi
+  - https://github.com/succelle/charts/tree/master/charts/incubator/jitsi
   - https://jitsi.org
   - https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start
 dependencies:

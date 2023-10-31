@@ -32,7 +32,7 @@ maintainers:
     url: https://truecharts.org
 name: poste
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/poste
+  - https://github.com/succelle/charts/tree/master/charts/incubator/poste
   - https://poste.io/
 type: application
 version: 2.0.11

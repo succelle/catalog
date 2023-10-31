@@ -4,58 +4,58 @@
 
 
 
-## [misskey-4.0.5](https://github.com/truecharts/charts/compare/misskey-4.0.4...misskey-4.0.5) (2023-10-07)
+## [misskey-4.0.5](https://github.com/succelle/charts/compare/misskey-4.0.4...misskey-4.0.5) (2023-10-07)
 
 ### Chore
 
-- update container image tccr.io/truecharts/misskey to v2023.9.3 ([#13310](https://github.com/truecharts/charts/issues/13310))
+- update container image tccr.io/truecharts/misskey to v2023.9.3 ([#13310](https://github.com/succelle/charts/issues/13310))
   
   
 
 
-## [misskey-4.0.4](https://github.com/truecharts/charts/compare/misskey-5.0.0...misskey-4.0.4) (2023-08-13)
+## [misskey-4.0.4](https://github.com/succelle/charts/compare/misskey-5.0.0...misskey-4.0.4) (2023-08-13)
 
 ### Chore
 
-- update container image tccr.io/truecharts/misskey to v13.14.2 ([#11506](https://github.com/truecharts/charts/issues/11506))
+- update container image tccr.io/truecharts/misskey to v13.14.2 ([#11506](https://github.com/succelle/charts/issues/11506))
   
   
 
 
 
-## [misskey-5.0.0](https://github.com/truecharts/charts/compare/misskey-4.0.3...misskey-5.0.0) (2023-07-31)
+## [misskey-5.0.0](https://github.com/succelle/charts/compare/misskey-4.0.3...misskey-5.0.0) (2023-07-31)
 
 
 
 
-## [misskey-4.0.3](https://github.com/truecharts/charts/compare/misskey-4.0.2...misskey-4.0.3) (2023-07-30)
+## [misskey-4.0.3](https://github.com/succelle/charts/compare/misskey-4.0.2...misskey-4.0.3) (2023-07-30)
 
 ### Chore
 
-- update helm general non-major ([#11034](https://github.com/truecharts/charts/issues/11034))
+- update helm general non-major ([#11034](https://github.com/succelle/charts/issues/11034))
   
   
 
 
-## [misskey-4.0.2](https://github.com/truecharts/charts/compare/misskey-4.0.1...misskey-4.0.2) (2023-07-29)
+## [misskey-4.0.2](https://github.com/succelle/charts/compare/misskey-4.0.1...misskey-4.0.2) (2023-07-29)
 
 ### Chore
 
-- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+- update helm general non-major ([#10955](https://github.com/succelle/charts/issues/10955))
   
   
 
 
-## [misskey-4.0.1](https://github.com/truecharts/charts/compare/misskey-4.0.0...misskey-4.0.1) (2023-07-22)
+## [misskey-4.0.1](https://github.com/succelle/charts/compare/misskey-4.0.0...misskey-4.0.1) (2023-07-22)
 
 
 
 
-## [misskey-4.0.0](https://github.com/truecharts/charts/compare/misskey-3.0.43...misskey-4.0.0) (2023-07-22)
+## [misskey-4.0.0](https://github.com/succelle/charts/compare/misskey-3.0.43...misskey-4.0.0) (2023-07-22)
 
 ### Feat
 
-- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+- hide advanced ingress options behind checbox ([#9203](https://github.com/succelle/charts/issues/9203))
   
   ### Fix
 
@@ -64,16 +64,16 @@
   
 
 
-## [misskey-3.0.43](https://github.com/truecharts/charts/compare/misskey-3.0.42...misskey-3.0.43) (2023-02-27)
+## [misskey-3.0.43](https://github.com/succelle/charts/compare/misskey-3.0.42...misskey-3.0.43) (2023-02-27)
 
 ### Chore
 
-- update helm general non-major ([#7725](https://github.com/truecharts/charts/issues/7725))
+- update helm general non-major ([#7725](https://github.com/succelle/charts/issues/7725))
   
   
 
 
-## [misskey-3.0.42](https://github.com/truecharts/charts/compare/misskey-3.0.41...misskey-3.0.42) (2023-02-26)
+## [misskey-3.0.42](https://github.com/succelle/charts/compare/misskey-3.0.41...misskey-3.0.42) (2023-02-26)
 
 ### Chore
 
@@ -82,7 +82,7 @@
   
 
 
-## [misskey-3.0.41](https://github.com/truecharts/charts/compare/misskey-3.0.40...misskey-3.0.41) (2023-02-24)
+## [misskey-3.0.41](https://github.com/succelle/charts/compare/misskey-3.0.40...misskey-3.0.41) (2023-02-24)
 
 ### Chore
 
@@ -91,7 +91,7 @@
   
 
 
-## [misskey-3.0.40](https://github.com/truecharts/charts/compare/misskey-3.0.39...misskey-3.0.40) (2023-02-23)
+## [misskey-3.0.40](https://github.com/succelle/charts/compare/misskey-3.0.39...misskey-3.0.40) (2023-02-23)
 
 ### Chore
 

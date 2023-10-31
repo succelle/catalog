@@ -18,7 +18,7 @@ maintainers:
     url: https://truecharts.org
 name: sdtd
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/sdtd
+  - https://github.com/succelle/charts/tree/master/charts/incubator/sdtd
   - https://www.steampowered.com/
 type: application
 version: 4.0.0

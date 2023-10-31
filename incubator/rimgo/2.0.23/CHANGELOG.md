@@ -4,7 +4,7 @@
 
 
 
-## [rimgo-2.0.23](https://github.com/truecharts/charts/compare/rimgo-2.0.22...rimgo-2.0.23) (2023-02-27)
+## [rimgo-2.0.23](https://github.com/succelle/charts/compare/rimgo-2.0.22...rimgo-2.0.23) (2023-02-27)
 
 ### Chore
 
@@ -13,7 +13,7 @@
   
 
 
-## [rimgo-2.0.22](https://github.com/truecharts/charts/compare/rimgo-2.0.21...rimgo-2.0.22) (2023-02-27)
+## [rimgo-2.0.22](https://github.com/succelle/charts/compare/rimgo-2.0.21...rimgo-2.0.22) (2023-02-27)
 
 ### Chore
 
@@ -22,7 +22,7 @@
   
 
 
-## [rimgo-2.0.21](https://github.com/truecharts/charts/compare/rimgo-2.0.20...rimgo-2.0.21) (2023-02-10)
+## [rimgo-2.0.21](https://github.com/succelle/charts/compare/rimgo-2.0.20...rimgo-2.0.21) (2023-02-10)
 
 ### Fix
 
@@ -31,7 +31,7 @@
   
 
 
-## [rimgo-2.0.20](https://github.com/truecharts/charts/compare/rimgo-2.0.19...rimgo-2.0.20) (2023-02-06)
+## [rimgo-2.0.20](https://github.com/succelle/charts/compare/rimgo-2.0.19...rimgo-2.0.20) (2023-02-06)
 
 ### Chore
 
@@ -40,7 +40,7 @@
   
 
 
-## [rimgo-2.0.19](https://github.com/truecharts/charts/compare/rimgo-2.0.18...rimgo-2.0.19) (2023-02-03)
+## [rimgo-2.0.19](https://github.com/succelle/charts/compare/rimgo-2.0.18...rimgo-2.0.19) (2023-02-03)
 
 ### Chore
 
@@ -49,7 +49,7 @@
   
 
 
-## [rimgo-2.0.18](https://github.com/truecharts/charts/compare/rimgo-2.0.17...rimgo-2.0.18) (2023-01-24)
+## [rimgo-2.0.18](https://github.com/succelle/charts/compare/rimgo-2.0.17...rimgo-2.0.18) (2023-01-24)
 
 ### Chore
 
@@ -58,7 +58,7 @@
   
 
 
-## [rimgo-2.0.17](https://github.com/truecharts/charts/compare/rimgo-2.0.16...rimgo-2.0.17) (2023-01-18)
+## [rimgo-2.0.17](https://github.com/succelle/charts/compare/rimgo-2.0.16...rimgo-2.0.17) (2023-01-18)
 
 ### Chore
 
@@ -67,7 +67,7 @@
   
 
 
-## [rimgo-2.0.16](https://github.com/truecharts/charts/compare/rimgo-2.0.15...rimgo-2.0.16) (2023-01-12)
+## [rimgo-2.0.16](https://github.com/succelle/charts/compare/rimgo-2.0.15...rimgo-2.0.16) (2023-01-12)
 
 ### Chore
 
@@ -76,7 +76,7 @@
   
 
 
-## [rimgo-2.0.15](https://github.com/truecharts/charts/compare/rimgo-2.0.14...rimgo-2.0.15) (2023-01-07)
+## [rimgo-2.0.15](https://github.com/succelle/charts/compare/rimgo-2.0.14...rimgo-2.0.15) (2023-01-07)
 
 ### Chore
 
@@ -85,15 +85,15 @@
   
 
 
-## [rimgo-2.0.14](https://github.com/truecharts/charts/compare/rimgo-2.0.13...rimgo-2.0.14) (2022-12-27)
+## [rimgo-2.0.14](https://github.com/succelle/charts/compare/rimgo-2.0.13...rimgo-2.0.14) (2022-12-27)
 
 ### Chore
 
-- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+- update helm general non-major ([#5856](https://github.com/succelle/charts/issues/5856))
   
   
 
 
-## [rimgo-2.0.13](https://github.com/truecharts/charts/compare/rimgo-2.0.12...rimgo-2.0.13) (2022-12-26)
+## [rimgo-2.0.13](https://github.com/succelle/charts/compare/rimgo-2.0.12...rimgo-2.0.13) (2022-12-26)
 
 ### Chore

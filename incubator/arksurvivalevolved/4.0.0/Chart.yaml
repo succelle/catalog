@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: arksurvivalevolved
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/arksurvivalevolved
+  - https://github.com/succelle/charts/tree/master/charts/incubator/arksurvivalevolved
   - https://github.com/ich777/docker-steamcmd-server/tree/arkse
 type: application
 version: 4.0.0

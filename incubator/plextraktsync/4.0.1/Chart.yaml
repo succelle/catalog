@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: plextraktsync
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/plextraktsync
+  - https://github.com/succelle/charts/tree/master/charts/incubator/plextraktsync
   - https://github.com/Taxel/PlexTraktSync
 type: application
 version: 4.0.1

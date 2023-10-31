@@ -25,7 +25,7 @@ maintainers:
     url: https://truecharts.org
 name: inventree
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/inventree
+  - https://github.com/succelle/charts/tree/master/charts/incubator/inventree
   - https://inventree.readthedocs.io
   - https://github.com/inventree/InvenTree
 version: 8.0.0

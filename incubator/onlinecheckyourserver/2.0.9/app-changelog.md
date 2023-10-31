@@ -1,6 +1,6 @@
 
 
-## [onlinecheckyourserver-2.0.9](https://github.com/truecharts/charts/compare/onlinecheckyourserver-2.0.8...onlinecheckyourserver-2.0.9) (2023-02-10)
+## [onlinecheckyourserver-2.0.9](https://github.com/succelle/charts/compare/onlinecheckyourserver-2.0.8...onlinecheckyourserver-2.0.9) (2023-02-10)
 
 ### Fix
 

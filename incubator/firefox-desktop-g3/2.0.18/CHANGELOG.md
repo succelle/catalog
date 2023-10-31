@@ -4,20 +4,20 @@
 
 
 
-## [firefox-desktop-g3-2.0.18](https://github.com/truecharts/charts/compare/firefox-desktop-g3-2.0.17...firefox-desktop-g3-2.0.18) (2023-04-30)
+## [firefox-desktop-g3-2.0.18](https://github.com/succelle/charts/compare/firefox-desktop-g3-2.0.17...firefox-desktop-g3-2.0.18) (2023-04-30)
 
 ### Chore
 
-- update container image tccr.io/truecharts/firefox-desktop-g3 to latest ([#8223](https://github.com/truecharts/charts/issues/8223))
+- update container image tccr.io/truecharts/firefox-desktop-g3 to latest ([#8223](https://github.com/succelle/charts/issues/8223))
   
   ### Fix
 
-- fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+- fix indentation ([#8536](https://github.com/succelle/charts/issues/8536))
   
   
 
 
-## [firefox-desktop-g3-2.0.17](https://github.com/truecharts/charts/compare/firefox-desktop-g3-2.0.16...firefox-desktop-g3-2.0.17) (2023-02-26)
+## [firefox-desktop-g3-2.0.17](https://github.com/succelle/charts/compare/firefox-desktop-g3-2.0.16...firefox-desktop-g3-2.0.17) (2023-02-26)
 
 ### Chore
 
@@ -26,7 +26,7 @@
   
 
 
-## [firefox-desktop-g3-2.0.16](https://github.com/truecharts/charts/compare/firefox-desktop-g3-2.0.15...firefox-desktop-g3-2.0.16) (2023-02-15)
+## [firefox-desktop-g3-2.0.16](https://github.com/succelle/charts/compare/firefox-desktop-g3-2.0.15...firefox-desktop-g3-2.0.16) (2023-02-15)
 
 ### Chore
 
@@ -35,7 +35,7 @@
   
 
 
-## [firefox-desktop-g3-2.0.15](https://github.com/truecharts/charts/compare/firefox-desktop-g3-2.0.14...firefox-desktop-g3-2.0.15) (2023-02-10)
+## [firefox-desktop-g3-2.0.15](https://github.com/succelle/charts/compare/firefox-desktop-g3-2.0.14...firefox-desktop-g3-2.0.15) (2023-02-10)
 
 ### Fix
 
@@ -44,7 +44,7 @@
   
 
 
-## [firefox-desktop-g3-2.0.14](https://github.com/truecharts/charts/compare/firefox-desktop-g3-2.0.13...firefox-desktop-g3-2.0.14) (2023-02-03)
+## [firefox-desktop-g3-2.0.14](https://github.com/succelle/charts/compare/firefox-desktop-g3-2.0.13...firefox-desktop-g3-2.0.14) (2023-02-03)
 
 ### Chore
 
@@ -53,16 +53,16 @@
   
 
 
-## [firefox-desktop-g3-2.0.13](https://github.com/truecharts/charts/compare/firefox-desktop-g3-2.0.12...firefox-desktop-g3-2.0.13) (2023-02-03)
+## [firefox-desktop-g3-2.0.13](https://github.com/succelle/charts/compare/firefox-desktop-g3-2.0.12...firefox-desktop-g3-2.0.13) (2023-02-03)
 
 ### Fix
 
--  clean more non-link sources ([#6925](https://github.com/truecharts/charts/issues/6925))
+-  clean more non-link sources ([#6925](https://github.com/succelle/charts/issues/6925))
   
   
 
 
-## [firefox-desktop-g3-2.0.12](https://github.com/truecharts/charts/compare/firefox-desktop-g3-2.0.11...firefox-desktop-g3-2.0.12) (2023-01-24)
+## [firefox-desktop-g3-2.0.12](https://github.com/succelle/charts/compare/firefox-desktop-g3-2.0.11...firefox-desktop-g3-2.0.12) (2023-01-24)
 
 ### Chore
 
@@ -71,7 +71,7 @@
   
 
 
-## [firefox-desktop-g3-2.0.11](https://github.com/truecharts/charts/compare/firefox-desktop-g3-2.0.10...firefox-desktop-g3-2.0.11) (2023-01-12)
+## [firefox-desktop-g3-2.0.11](https://github.com/succelle/charts/compare/firefox-desktop-g3-2.0.10...firefox-desktop-g3-2.0.11) (2023-01-12)
 
 ### Chore
 
@@ -80,20 +80,20 @@
   
 
 
-## [firefox-desktop-g3-2.0.10](https://github.com/truecharts/charts/compare/firefox-desktop-g3-2.0.9...firefox-desktop-g3-2.0.10) (2022-12-27)
+## [firefox-desktop-g3-2.0.10](https://github.com/succelle/charts/compare/firefox-desktop-g3-2.0.9...firefox-desktop-g3-2.0.10) (2022-12-27)
 
 ### Chore
 
-- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+- update helm general non-major ([#5856](https://github.com/succelle/charts/issues/5856))
   
   
 
 
-## [firefox-desktop-g3-2.0.9](https://github.com/truecharts/charts/compare/firefox-desktop-g3-2.0.8...firefox-desktop-g3-2.0.9) (2022-12-26)
+## [firefox-desktop-g3-2.0.9](https://github.com/succelle/charts/compare/firefox-desktop-g3-2.0.8...firefox-desktop-g3-2.0.9) (2022-12-26)
 
 ### Chore
 
-- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+- update helm general non-major ([#5839](https://github.com/succelle/charts/issues/5839))
   
   
 

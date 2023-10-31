@@ -19,7 +19,7 @@ maintainers:
     url: https://truecharts.org
 name: gokapi
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/gokapi
+  - https://github.com/succelle/charts/tree/master/charts/incubator/gokapi
   - https://github.com/Forceu/gokapi
 type: application
 version: 2.0.11

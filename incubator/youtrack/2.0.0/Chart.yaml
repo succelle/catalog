@@ -17,7 +17,7 @@ maintainers:
     url: https://truecharts.org
 name: youtrack
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/youtrack
+  - https://github.com/succelle/charts/tree/master/charts/incubator/youtrack
   - https://www.jetbrains.com/youtrack/
 version: 2.0.0
 annotations:

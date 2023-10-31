@@ -1,6 +1,6 @@
 
 
-## [vorta-2.0.9](https://github.com/truecharts/charts/compare/vorta-2.0.8...vorta-2.0.9) (2023-02-10)
+## [vorta-2.0.9](https://github.com/succelle/charts/compare/vorta-2.0.8...vorta-2.0.9) (2023-02-10)
 
 ### Fix
 

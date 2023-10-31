@@ -28,7 +28,7 @@ maintainers:
     url: https://truecharts.org
 name: fileshelter
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/fileshelter
+  - https://github.com/succelle/charts/tree/master/charts/incubator/fileshelter
   - https://github.com/epoupon/fileshelter
 type: application
 version: 2.0.12

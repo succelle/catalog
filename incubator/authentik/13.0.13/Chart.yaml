@@ -20,7 +20,7 @@ maintainers:
     url: https://truecharts.org
 name: authentik
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/authentik
+  - https://github.com/succelle/charts/tree/master/charts/incubator/authentik
   - https://github.com/goauthentik/authentik
   - https://goauthentik.io/docs/
 version: 13.0.13

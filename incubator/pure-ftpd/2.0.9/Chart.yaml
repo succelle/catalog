@@ -24,7 +24,7 @@ maintainers:
     url: https://truecharts.org
 name: pure-ftpd
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/incubator/pure-ftpd
+  - https://github.com/succelle/charts/tree/master/charts/incubator/pure-ftpd
   - https://hub.docker.com/r/crazymax/pure-ftpd
   - https://www.pureftpd.org/project/pure-ftpd/
 type: application
